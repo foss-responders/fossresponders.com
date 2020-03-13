@@ -57,7 +57,13 @@ What else should be here? Get in touch!
 
 Open source software depends upon real-world interactions just as much as it does on code. With the alarming spread of the Coronavirus, the open source ecosystem is being affected in enormously impactful ways. This site is one of many efforts to help.
 
-<!-- <h2 class="center">Announcements and Updates</h2>
+## Other Efforts
+
+While not dedicated entirely to open source, here are some other programs that need help
+
+* [Covid19 Response Fund](https://covid19responsefund.org/). Donate directly to the WHO, who will allocate funds to efforts that need it.
+
+<!-- ## Announcements and Updates
 <ul class="post-list">
 {% for post in site.posts limit:10 %}
   <li><article><a href="{{ site.url }}{{ post.url }}"><div class="post-entry-title">{{ post.title }}</div> <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
