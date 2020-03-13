@@ -7,18 +7,57 @@ excerpt: "Helping the Open Source ecosystem respond to Coronavirus"
 search_omit: true
 ---
 
-<h2 class="site-description center" itemprop="description">Helping the Open Source ecosystem respond to Coronavirus</h2>
+<h1 class="center">FOSS Responders</h1>
+<h2 class="center">Need help?</h2>
+
+If you work on open source are affected by Coronavirus, please get in touch. We are actively looking for ways to help out community members.
+
+<div class="btn help">
+  <a href="#">I manage events or communities and I need some backup</a>
+</div>
+
+<div class="btn help">
+  <a href="#">I was attending an event that was cancelled and I need need financial aid</a>
+</div>
+
+<div class="btn help">
+  <a href="#">We had to cancel our event and we need financial aid</a>
+</div>
+
+<div class="btn help">
+  <a href="#">We need people to help us organize or respond</a>
+</div>
+
+Have something else you need? Please [open an issue](https://github.com/foss-responders/support-requests/issues/new), [join our Slack](https://slack.opencollective.com/#crisis-working-group) or email [foss-responders@googlegroups.com](mailto:foss-responders@googlegroups.com)
+
+<h2 class="center">Conferences</h2>
+
+Conferences are being cancelled.
+
+- Here is [a dynamic list of cancelled events](https://airtable.com/shrETNURgXNrGWbd8/tblc49hMMykARebo8).
+- What else should be here? Get in touch!
+
+
+<h2 class="center">Funding</h2>
+
+- **Reverse Scholarships**: If you are an open source maintainer, and you paid for a ticket or for travel to an important conference that was cancelled, [please get in touch](mailto:foss-responders@googlegroups.com). We are actively looking for people to help out with funds, but need to know if people need it before activating our networks to help you cover your costs.
+- [Indeed](https://indeed.com) is running another round with $10k to focus on projects impacted by COVID-19. They're looking for others to join in organization, sponsorship, mentorship, and outreach. [Get in touch](mailto:foss-responders@googlegroups.com).
+
+<h2 class="center">Other Resources</h2>
+
+- **Job Hunters**: [Indeed](https://indeed.com) is looking to build a virtual job fair to help remote workers get jobs in open source. Get in touch.
+
+
+<h2 class="center">About</h2>
 
 <p class="center"><a href="https://slack.opencollective.com/#crisis-working-group"><img src="https://img.shields.io/badge/slack-open%20collective-blue" alt="Slack link to Open Collective Slack"/></a></p>
 
-<!-- TODO write out -->
-...
+Open source software depends upon real-world interactions just as much as it does on code. With the alarming spread of the Coronavirus, the open source ecosystem is being affected in enormously impactful ways. This site is one of many efforts to help.
 
-
-<h2 class="center">Announcements and Updates</h2>
+<!-- <h2 class="center">Announcements and Updates</h2>
 <ul class="post-list">
 {% for post in site.posts limit:10 %}
   <li><article><a href="{{ site.url }}{{ post.url }}"><div class="post-entry-title">{{ post.title }}</div> <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
-
+ -->

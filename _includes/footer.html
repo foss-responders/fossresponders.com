@@ -1,6 +1,7 @@
 <div>Suggest an edit or modification <a href="{{ site.github }}" target="_blank">on GitHub</a>.<br />
 <div>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}. <a href="{{ BASE_URL}}/privacy/">Privacy</a>.</div>
 <div class="social-icons">
+	<a href="mailto:{{site.owner.email}}" title="Email us!" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a>
 	{% if site.owner.twitter %}<a href="https://twitter.com/{{ site.owner.twitter }}" title="{{ site.owner.name}} on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>{% endif %}
 	{% if site.owner.facebook %}<a href="https://facebook.com/{{ site.owner.facebook }}" title="{{ site.owner.name}} on Facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>{% endif %}
 	{% if site.owner.google.plus %}<a href="https://plus.google.com/+{{ site.owner.google.plus }}" title="{{ site.owner.name}} on Google+" target="_blank"><i class="fa fa-google-plus-square fa-2x"></i></a>{% endif %}
