@@ -96,3 +96,13 @@ p code, li code {
   margin: 20px;
   font-size: 20px;
 }
+
+.btn {
+  a, a:visited {
+    color: $secondary-color;
+    &:hover {
+      background-color: $white;
+      color: $black;
+    }
+  }
+}

@@ -13,29 +13,28 @@ search_omit: true
 If you work on open source are affected by Coronavirus, please get in touch. We are actively looking for ways to help out community members.
 
 <div class="btn help">
-  <a href="#">I manage events or communities and I need some backup</a>
+  <a href="https://github.com/foss-responders/support-requests/issues/new?assignees=&labels=&template=i-manage-events-or-communities-and-i-need-some-backup.md&title=%5BHELP%5D">I manage events or communities and I need some backup</a>
 </div>
 
 <div class="btn help">
-  <a href="#">I was attending an event that was cancelled and I need need financial aid</a>
+  <a href="https://github.com/foss-responders/support-requests/issues/new?assignees=&labels=&template=i-was-attending-an-event-that-was-cancelled-and-i-need-need-financial-aid.md&title=%5BINDIVIDUAL%5D">I was attending an event that was cancelled and I need need financial aid</a>
 </div>
 
 <div class="btn help">
-  <a href="#">We had to cancel our event and we need financial aid</a>
+  <a href="https://github.com/foss-responders/support-requests/issues/new?assignees=&labels=&template=we-had-to-cancel-our-event-and-we-need-financial-aid.md&title=%5BEVENT%5D">We had to cancel our event and we need financial aid</a>
 </div>
 
 <div class="btn help">
-  <a href="#">We need people to help us organize or respond</a>
+  <a href="https://github.com/foss-responders/support-requests/issues/new?assignees=&labels=&template=we-need-people-to-help-us-organize-or-respond.md&title=%5BORGANIZE%5D">We need people to help us organize or respond</a>
 </div>
 
-Have something else you need? Please [open an issue](https://github.com/foss-responders/support-requests/issues/new), [join our Slack](https://slack.opencollective.com/#crisis-working-group) or email [foss-responders@googlegroups.com](mailto:foss-responders@googlegroups.com)
+Have something else you need? Please [open an issue](https://github.com/foss-responders/support-requests/issues/new), [join our Slack](https://slack.opencollective.com/#crisis-working-group) or email [foss-responders@googlegroups.com](mailto:foss-responders@googlegroups.com). If you'd rather email than open a GitHub issue, please feel free to email, as well.
 
 <h2 class="center">Conferences</h2>
 
-Conferences are being cancelled.
+Here is [a dynamic list of cancelled events](https://airtable.com/shrETNURgXNrGWbd8/tblc49hMMykARebo8).
 
-- Here is [a dynamic list of cancelled events](https://airtable.com/shrETNURgXNrGWbd8/tblc49hMMykARebo8).
-- What else should be here? Get in touch!
+What else should be here? Get in touch!
 
 
 <h2 class="center">Funding</h2>
@@ -46,7 +45,6 @@ Conferences are being cancelled.
 <h2 class="center">Other Resources</h2>
 
 - **Job Hunters**: [Indeed](https://indeed.com) is looking to build a virtual job fair to help remote workers get jobs in open source. Get in touch.
-
 
 <h2 class="center">About</h2>
 
