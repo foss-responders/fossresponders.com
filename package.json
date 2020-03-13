@@ -1,0 +1,19 @@
+{
+  "name": "fossresponders.com",
+  "description": "Only for website tooling, not for publication.",
+  "private": true,
+  "version": "0.0.0",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-changed": "^3.2.0",
+    "gulp-image-resize": "^0.13.0",
+    "gulp-imagemin": "^4.1.0",
+    "imagemin-pngcrush": "^5.1.0"
+  },
+  "dependencies": {
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.1"
+  }
+}

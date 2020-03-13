@@ -1,0 +1,62 @@
+# Site wide configuration
+
+title: FOSS Responders
+locale: en_US
+description: "Helping the Open Source ecoystem repsond to Coronavirus"
+logo: favicon.png
+wordless_logo: favicon.png
+search: false
+author: "Richard Littauer and Contributors"
+url: https://fossresponders.com
+github: https://github.com/foss-resonders/fossresponders.com
+# Site owner
+owner:
+  name: FOSS Responders
+  avatar: # TODO logo-white-background.png # Currently not used. Double check if you implement this.
+  email: foss-responders@googlegroups.com
+  disqus-shortname:
+  twitter: #
+  facebook: #username
+  github: foss-responders
+  stackexchange: #
+  linkedin: #username
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
+  google:
+    plus: #username
+    analytics:
+    verify: # TODO
+    ad-client:
+    ad-slot:
+  bing-verify:
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-twitter-plugin
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
+
+mathjax: true
+
+include: [".htaccess"]
+# Excluding most of the usual suspects
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "gulpfile.js", "package.json", "package-lock.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor", "theme-setup"]
