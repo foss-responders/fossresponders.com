@@ -62,6 +62,7 @@ Open source software depends upon real-world interactions just as much as it doe
 While not dedicated entirely to open source, here are some other programs that need help
 
 * [Covid19 Response Fund](https://covid19responsefund.org/). Donate directly to the WHO, who will allocate funds to efforts that need it.
+* [Portland Corona Virus Mutual Aid Open Collective](https://opencollective.com/portland-corona-virus-mutual-aid-fund). Donate to those in Portland who need help.
 
 <!-- ## Announcements and Updates
 <ul class="post-list">
