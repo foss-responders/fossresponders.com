@@ -41,7 +41,8 @@ Have something else you need? Please [open an issue](https://github.com/foss-res
 
 ## Conferences
 
-Here is [a dynamic list of cancelled events](https://airtable.com/shrETNURgXNrGWbd8/tblc49hMMykARebo8).
+- Here is [a dynamic list of cancelled events](https://airtable.com/shrETNURgXNrGWbd8/tblc49hMMykARebo8).
+- If you were sponsoring a cancelled conference for recruitment purposes and you still want to connect with prospective candidates, Indeed is working on scheduling virtual hiring events. [Click here for more information](https://events.indeed.com/hiringevents/#get_started_form).
 
 What else should be here? Get in touch!
 
