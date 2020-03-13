@@ -50,10 +50,6 @@ What else should be here? Get in touch!
 - **Reverse Scholarships**: If you are an open source maintainer, and you paid for a ticket or for travel to an important conference that was cancelled, [please get in touch](mailto:foss-responders@googlegroups.com). We are actively looking for people to help out with funds, but need to know if people need it before activating our networks to help you cover your costs.
 - [Indeed](https://indeed.com) is running another round with $10k to focus on projects impacted by COVID-19. They're looking for others to join in organization, sponsorship, mentorship, and outreach. [Get in touch](mailto:foss-responders@googlegroups.com).
 
-<h2 class="center">Other Resources</h2>
-
-- **Job Hunters**: [Indeed](https://indeed.com) is looking to build a virtual job fair to help remote workers get jobs in open source. Get in touch.
-
 <h2 class="center">About</h2>
 
 <p class="center"><a href="https://slack.opencollective.com/#crisis-working-group"><img src="https://img.shields.io/badge/slack-open%20collective-blue" alt="Slack link to Open Collective Slack"/></a></p>
