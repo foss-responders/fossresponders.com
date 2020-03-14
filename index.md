@@ -83,6 +83,7 @@ While not dedicated entirely to open source, here are some other programs that n
 * [Covid19 Response Fund](https://covid19responsefund.org/). Donate directly to the WHO, who will allocate funds to efforts that need it.
 * [Portland Corona Virus Mutual Aid Open Collective](https://opencollective.com/portland-corona-virus-mutual-aid-fund). Donate to those in Portland who need help.
 * [Organizing Virtual Events Handbook](https://make.wordpress.org/community/handbook/meetup-organizer/resources/organizing-virtual-events/). Assembled by the Wordpress community.
+* [Running My First Online Meetup](https://dev.to/_phzn/running-my-first-online-meetup-o1h). How to livestream events.
 
 # Contact
 
