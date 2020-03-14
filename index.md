@@ -21,7 +21,7 @@ If you work on open source are affected by Coronavirus, please get in touch. We 
 
 <a href="https://github.com/foss-responders/support-requests/issues/new?assignees=&labels=&template=i-was-attending-an-event-that-was-cancelled-and-i-need-need-financial-aid.md&title=%5BINDIVIDUAL%5D">
   <span class="btn help">
-  I was attending an event that was cancelled and I need need financial aid
+  I was attending an event that was cancelled and I need financial aid
   </span>
 </a>
 
@@ -49,7 +49,6 @@ What else should be here? [Get in touch](mailto:foss-responders@googlegroups.com
 
 ## Funding
 
-- **Reverse Scholarships**: If you are an open source maintainer and are left with expenses from an event that was cancelled, please email us. We are actively looking to help, but need to know what you need before activating our networks to cover costs.
 - [Indeed](https://indeed.com) is running another round with $10k to focus on projects impacted by COVID-19. They're looking for others to join in organization, sponsorship, mentorship, and outreach.
 
 What else should be here? [Get in touch](mailto:foss-responders@googlegroups.com).
