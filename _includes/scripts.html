@@ -5,3 +5,14 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="{{ site.url }}/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
 <script src="{{ site.url }}/assets/js/scripts.min.js"></script>
+{% if site.owner.google.analytics %}
+<!-- Asynchronous Google Analytics snippet -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4124866-45"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ site.owner.google.analytics }}');
+</script>
+{% endif %}
