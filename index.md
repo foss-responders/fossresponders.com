@@ -67,13 +67,9 @@ FOSS Responders is an open source, open project. Anyone can jump in and work on 
 
 Some of the companies where our volunteers work (but may or may not be representing their company) include:
 
-- [GitLab](https://about.gitlab.com/)
-- [Google](https://google.com)
 - [Indeed](https://indeed.com)
 - [Maintainer Mountaineer](https://maintainer.io)
-- [Open Source Initiative](https://opensource.org/)
-- [Salesforce](https://www.salesforce.com/)
-- [Storj](https://storj.io)
+- [Open Collective](https://opencollective.com)
 - ...and yours?
 
 ## Other Efforts
