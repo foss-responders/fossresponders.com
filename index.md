@@ -44,13 +44,15 @@ Have something else you need? Please [open an issue](https://github.com/foss-res
 - Here is [a dynamic list of cancelled events](https://airtable.com/shrETNURgXNrGWbd8/tblc49hMMykARebo8).
 - If you were sponsoring a cancelled conference for recruitment purposes and you still want to connect with prospective candidates, Indeed is working on scheduling virtual hiring events. [Click here for more information](https://events.indeed.com/hiringevents/#get_started_form).
 
-What else should be here? Get in touch!
+What else should be here? [Get in touch](mailto:foss-responders@googlegroups.com!)
 
 
 ## Funding
 
-- **Reverse Scholarships**: If you are an open source maintainer, and you paid for a ticket or for travel to an important conference that was cancelled, [please get in touch](mailto:foss-responders@googlegroups.com). We are actively looking for people to help out with funds, but need to know if people need it before activating our networks to help you cover your costs.
-- [Indeed](https://indeed.com) is running another round with $10k to focus on projects impacted by COVID-19. They're looking for others to join in organization, sponsorship, mentorship, and outreach. [Get in touch](mailto:foss-responders@googlegroups.com).
+- **Reverse Scholarships**: If you are an open source maintainer and are left with expenses from an event that was cancelled, please email us. We are actively looking to help, but need to know what you need before activating our networks to cover costs.
+- [Indeed](https://indeed.com) is running another round with $10k to focus on projects impacted by COVID-19. They're looking for others to join in organization, sponsorship, mentorship, and outreach.
+
+What else should be here? [Get in touch](mailto:foss-responders@googlegroups.com).
 
 ## About
 
