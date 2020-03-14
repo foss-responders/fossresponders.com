@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: "FOSS Responders"
 ignore_title: true
 tags: ["foss responders", "floss responders", "oss", "floss", "foss", "open source", "aid", "coronavirus", "covid-19", "opensource"]
 excerpt: "Helping the Open Source ecosystem respond to Coronavirus"
