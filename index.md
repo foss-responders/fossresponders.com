@@ -49,7 +49,7 @@ What else should be here? [Get in touch](mailto:foss-responders@googlegroups.com
 
 ## Funding
 
-- [Indeed](https://indeed.com) is running another round with $10k to focus on projects impacted by COVID-19. They're looking for others to join in organization, sponsorship, mentorship, and outreach.
+- [Indeed's Open Source Program Office](https://opensource.indeed.com) and the [Open Collective](https://opencollective.com) are organizing a FOSS Funders event in Q2 with a focus on projects impacted by COVID-19. They're looking for others to join in organization, sponsorship, mentorship, and outreach. Send an email to [opensource@indeed.com](mailto:opensource@indeed.com) for details.
 
 What else should be here? [Get in touch](mailto:foss-responders@googlegroups.com).
 
@@ -69,7 +69,7 @@ Some of the companies where our volunteers work (but may or may not be represent
 
 - [GitLab](https://about.gitlab.com/)
 - [Google](https://google.com)
-- [Indeed](https://protocol.ai)
+- [Indeed](https://indeed.com)
 - [Maintainer Mountaineer](https://maintainer.io)
 - [Open Source Initiative](https://opensource.org/)
 - [Salesforce](https://www.salesforce.com/)
@@ -82,6 +82,7 @@ While not dedicated entirely to open source, here are some other programs that n
 
 * [Covid19 Response Fund](https://covid19responsefund.org/). Donate directly to the WHO, who will allocate funds to efforts that need it.
 * [Portland Corona Virus Mutual Aid Open Collective](https://opencollective.com/portland-corona-virus-mutual-aid-fund). Donate to those in Portland who need help.
+* [Organizing Virtual Events Handbook](https://make.wordpress.org/community/handbook/meetup-organizer/resources/organizing-virtual-events/). Assembled by the Wordpress community.
 
 # Contact
 
