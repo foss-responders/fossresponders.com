@@ -13,9 +13,9 @@ search_omit: true
 
 If you work on open source are affected by Coronavirus, please get in touch. We are actively looking for ways to help out community members.
 
-<a href="https://github.com/foss-responders/support-requests/issues/new?assignees=&labels=&template=i-manage-events-or-communities-and-i-need-some-backup.md&title=%5BHELP%5D">
+<a href="https://github.com/foss-responders/support-requests/issues/new?assignees=&labels=&template=i-am-trying-to-do-this-all-myself-and-i-need-a-partner.md&title=%5BHELP%5D">
   <span class="btn help">
-  I manage events or communities and I need some backup
+  I'm trying to do this all myself and I need a partner
   </span>
 </a>
 
