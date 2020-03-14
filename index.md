@@ -60,6 +60,23 @@ What else should be here? [Get in touch](mailto:foss-responders@googlegroups.com
 
 Open source software depends upon real-world interactions just as much as it does on code. With the alarming spread of the Coronavirus, the open source ecosystem is being affected in enormously impactful ways. This site is one of many efforts to help.
 
+It started as an organic movement led by Duane O'Brien (Indeed.com), Megan Byrd-Sanicki (Google), and others. We're open to all who can helping out!
+
+## Sponsors and Backers
+
+FOSS Responders is an open source, open project. Anyone can jump in and work on it. It is entirely volunteer run. Right now, we're in particular need of funders, designers, and people to spread the word.
+
+Some of the companies where our volunteers work (but may or may not be representing their company) include:
+
+- [GitLab](https://about.gitlab.com/)
+- [Google](https://google.com)
+- [Indeed](https://protocol.ai)
+- [Maintainer Mountaineer](https://maintainer.io)
+- [Open Source Initiative](https://opensource.org/)
+- [Salesforce](https://www.salesforce.com/)
+- [Storj](https://storj.io)
+- ...and yours?
+
 ## Other Efforts
 
 While not dedicated entirely to open source, here are some other programs that need help
@@ -67,10 +84,6 @@ While not dedicated entirely to open source, here are some other programs that n
 * [Covid19 Response Fund](https://covid19responsefund.org/). Donate directly to the WHO, who will allocate funds to efforts that need it.
 * [Portland Corona Virus Mutual Aid Open Collective](https://opencollective.com/portland-corona-virus-mutual-aid-fund). Donate to those in Portland who need help.
 
-<!-- ## Announcements and Updates
-<ul class="post-list">
-{% for post in site.posts limit:10 %}
-  <li><article><a href="{{ site.url }}{{ post.url }}"><div class="post-entry-title">{{ post.title }}</div> <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
-{% endfor %}
-</ul>
- -->
+# Contact
+
+{% include contact.html %}
