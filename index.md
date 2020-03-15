@@ -11,7 +11,7 @@ search_omit: true
 
 ## Need help?
 
-If you work on open source are affected by Coronavirus, please get in touch. We are actively looking for ways to help out community members.
+COVID-19 is impacting the open source industry in many ways. If you or your community has been impacted, please let us know. We are actively looking for ways to help. Help may come in many forms such as advice on how to cancel and negotiate your event contracts, how to managed digital events, and individual or organizational financial support.
 
 <a href="https://github.com/foss-responders/support-requests/issues/new?assignees=&labels=&template=i-am-trying-to-do-this-all-myself-and-i-need-a-partner.md&title=%5BHELP%5D">
   <span class="btn help">
