@@ -39,6 +39,16 @@ COVID-19 is impacting the open source industry in many ways. If you or your comm
 
 Have something else you need? Please [open an issue](https://github.com/foss-responders/support-requests/issues/new) on GitHub or [join our Slack](https://slack.opencollective.com/#crisis-working-group). If you’d rather email than open a GitHub issue, please feel free to contact us at [foss-responders@googlegroups.com](mailto:foss-responders@googlegroups.com).
 
+## We Can Give Help
+
+That's great!
+
+If you are in a position to give help via funding, you are encouraged to use our OpenCollective to donate. Their system allows us to ensure transparency and access for all.
+
+We will also make sure to thank each and everyone helping!
+
+<div class="center"><script src="https://opencollective.com/foss-responders/banner.js"></script></div>
+
 ## Conferences
 
 - Here is [a dynamic list of cancelled events](https://airtable.com/shrETNURgXNrGWbd8/tblc49hMMykARebo8). Not seeing an event? [Add it here](https://airtable.com/shr5QBJUPPOQUJfND).
@@ -59,13 +69,14 @@ What else should be here? [Get in touch](mailto:foss-responders@googlegroups.com
 
 Open source software depends upon real-world interactions just as much as it does on code. With the alarming spread of the Coronavirus, the open source ecosystem is being affected in enormously impactful ways. This site is one of many efforts to help.
 
-It started as an organic movement led by Duane O'Brien (Indeed.com), Megan Byrd-Sanicki (Google), and others. We're open to all who can helping out!
+It started as an organic movement led by Duane O'Brien (Indeed.com), Megan Byrd-Sanicki (Google), and others. We're open to all who can help out!
 
-## Sponsors and Backers
+## Who we are
 
 FOSS Responders is an open source, open project. Anyone can jump in and work on it. It is entirely volunteer run. Right now, we're in particular need of funders, designers, and people to spread the word.
 
 Some of the companies where our volunteers work (but may or may not be representing their company) include:
+
 
 - [Indeed](https://indeed.com)
 - [Maintainer Mountaineer](https://maintainer.io)
