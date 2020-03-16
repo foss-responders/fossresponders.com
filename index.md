@@ -92,6 +92,6 @@ While not dedicated entirely to open source, here are some other programs that n
 * [Organizing Virtual Events Handbook](https://make.wordpress.org/community/handbook/meetup-organizer/resources/organizing-virtual-events/). Assembled by the Wordpress community.
 * [Running My First Online Meetup](https://dev.to/_phzn/running-my-first-online-meetup-o1h). How to livestream events.
 
-# Contact
+## Contact
 
 {% include contact.html %}
