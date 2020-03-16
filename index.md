@@ -59,7 +59,7 @@ What else should be here? [Get in touch](mailto:foss-responders@googlegroups.com
 
 Open source software depends upon real-world interactions just as much as it does on code. With the alarming spread of the Coronavirus, the open source ecosystem is being affected in enormously impactful ways. This site is one of many efforts to help.
 
-It started as an organic movement led by Duane O'Brien (Indeed.com), Megan Byrd-Sanicki (Google), and others. We're open to all who can helping out!
+It started as an organic movement led by Duane O'Brien (Indeed.com), Megan Byrd-Sanicki (Google), and others. We're open to all who can help out!
 
 ## Sponsors and Backers
 
