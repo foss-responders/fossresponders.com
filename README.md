@@ -1,14 +1,20 @@
 # Foss Responders Website
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c2f8556d-675a-4e46-97c4-a1d4053f56a9/deploy-status)](https://app.netlify.com/sites/eager-brattain-d14b82/deploys)
+
 The website for FOSS Responders
 
 ## Install
 
-Clone this repo.
+- Clone this repo.
+- Use `bundle install` and `npm i` to install all tooling.
+- Run `npx gulp` in order to edit all images. Please use Node v10 for Gulp, or suggest a way to fix the gulpfile.
 
 ## Develop
 
-Clone this repo. Right now, it does not use any formatting.
+- Clone this repo.
+- After running commands above, run `bundle exec jekyll serve` to preview locally.
+- All pages render on GitHub Pages once pushed.
 
 ## Contribute
 
