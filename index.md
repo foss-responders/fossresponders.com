@@ -47,6 +47,10 @@ If you are in a position to give help via funding, you are encouraged to use our
 
 We will also make sure to thank each and everyone helping!
 
+<a href="https://opencollective.com/foss-responders/donate" target="_blank">
+![Contribute](https://opencollective.com/foss-responders/donate/button@2x.png?color=blue){:width="300"}
+</a>
+
 <div class="center"><script src="https://opencollective.com/foss-responders/banner.js"></script></div>
 
 ## Conferences
