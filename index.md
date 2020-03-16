@@ -37,7 +37,7 @@ COVID-19 is impacting the open source industry in many ways. If you or your comm
   </span>
 </a>
 
-Have something else you need? Please [open an issue](https://github.com/foss-responders/support-requests/issues/new), [join our Slack](https://slack.opencollective.com/#crisis-working-group) or email [foss-responders@googlegroups.com](mailto:foss-responders@googlegroups.com). If you'd rather email than open a GitHub issue, please feel free to email, as well.
+Have something else you need? Please [open an issue](https://github.com/foss-responders/support-requests/issues/new) on GitHub or [join our Slack](https://slack.opencollective.com/#crisis-working-group). If you’d rather email than open a GitHub issue, please feel free to contact us at [foss-responders@googlegroups.com](mailto:foss-responders@googlegroups.com).
 
 ## Conferences
 
