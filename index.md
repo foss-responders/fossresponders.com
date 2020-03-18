@@ -13,15 +13,9 @@ search_omit: true
 
 COVID-19 is impacting the open source industry in many ways. If you or your community has been impacted, please let us know. We are actively looking for ways to help. Help may come in many forms such as advice on how to cancel and negotiate your event contracts, how to managed digital events, and individual or organizational financial support.
 
-<a href="https://github.com/foss-responders/support-requests/issues/new?assignees=&labels=&template=i-am-trying-to-do-this-all-myself-and-i-need-a-partner.md&title=%5BHELP%5D">
+<a href="https://forms.gle/HP2vnBL4Vu1qu5YQ8">
   <span class="btn help">
-  I'm trying to do this all myself and I need a partner
-  </span>
-</a>
-
-<a href="https://github.com/foss-responders/support-requests/issues/new?assignees=&labels=&template=i-was-attending-an-event-that-was-cancelled-and-i-need-need-financial-aid.md&title=%5BINDIVIDUAL%5D">
-  <span class="btn help">
-  I was attending an event that was cancelled and I need financial aid
+  I need financial or other help because an event was cancelled
   </span>
 </a>
 
