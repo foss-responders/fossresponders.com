@@ -51,8 +51,6 @@ We will also make sure to thank each and everyone helping!
 ![Contribute](https://opencollective.com/foss-responders/donate/button@2x.png?color=blue){:width="300"}
 </a>
 
-<div class="center"><script src="https://opencollective.com/foss-responders/banner.js"></script></div>
-
 ## Conferences
 
 - Here is [a dynamic list of cancelled events](https://airtable.com/shrETNURgXNrGWbd8/tblc49hMMykARebo8). Not seeing an event? [Add it here](https://airtable.com/shr5QBJUPPOQUJfND).
