@@ -78,6 +78,7 @@ Some of the companies where our volunteers work (but may or may not be represent
 - [Indeed](https://indeed.com)
 - [Maintainer Mountaineer](https://maintainer.io)
 - [Open Collective](https://opencollective.com)
+- [Open Source Collective](https://www.oscollective.org/)
 - ...and yours?
 
 ## Other Efforts
