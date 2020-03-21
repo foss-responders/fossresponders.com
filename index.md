@@ -73,6 +73,7 @@ FOSS Responders is an open source, open project. Anyone can jump in and work on 
 
 Some of the companies where our volunteers work (but may or may not be representing their company) include:
 
+- [Aspiration](https://aspirationtech.org/)
 - [GitLab](https://about.gitlab.com/)
 - [Indeed](https://indeed.com)
 - [Maintainer Mountaineer](https://maintainer.io)
