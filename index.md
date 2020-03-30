@@ -61,7 +61,7 @@ What else should be here? [Get in touch](mailto:foss-responders@googlegroups.com
 
 ## About
 
-<p class="center"><a href="https://slack.opencollective.com/#crisis-working-group"><img src="https://img.shields.io/badge/slack-open%20collective-blue" alt="Slack link to Open Collective Slack"/></a></p>
+<p class="center"><a href="https://slack.opencollective.com/#crisis-working-group"><img src="https://img.shields.io/badge/slack-open%20collective-blue" alt="Slack link to Open Collective Slack"/></a> <a href="https://riot.im/app/#/room/#fossresponders:matrix.org"><img src="https://img.shields.io/badge/matrix-%23fossresponders--db%3Amatrix.org-blue.svg" alt="Connect to Matrix bridge" /></a></p>
 
 Open source software depends upon real-world interactions just as much as it does on code. With the alarming spread of the Coronavirus, the open source ecosystem is being affected in enormously impactful ways. This site is one of many efforts to help.
 
