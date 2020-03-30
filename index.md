@@ -92,4 +92,6 @@ While not dedicated entirely to open source, here are some other programs that n
 
 ## Contact
 
+If you have questions, take a look at our [FAQ](/faq/). This will grow as more people ask questions and we their responses to it.
+
 {% include contact.html %}
