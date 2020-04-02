@@ -79,6 +79,7 @@ Some of the companies where our volunteers work (but may or may not be represent
 - [Maintainer Mountaineer](https://maintainer.io)
 - [Open Collective](https://opencollective.com)
 - [Open Source Collective](https://www.oscollective.org/)
+- [Red Hat](https://www.redhat.com/)
 - ...and yours?
 
 ## Other Efforts
