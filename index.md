@@ -7,7 +7,7 @@ excerpt: "Helping the Open Source ecosystem respond to Coronavirus"
 search_omit: true
 ---
 
-<h1 class="center">FOSS Responders</h1>
+![FOSS responders' logo](images/src/logos/logo-270x790.png)
 
 ## Need help?
 
