@@ -19,7 +19,7 @@ COVID-19 is impacting the open source industry in many ways. If you or your comm
   </span>
 </a>
 
-<a href="https://github.com/foss-responders/support-requests/issues/new?assignees=&labels=&template=we-had-to-cancel-our-event-and-we-need-financial-aid.md&title=%5BEVENT%5D">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdm1op4FcFJJFPXDxwoQDK3fGnZO6hnQEbXmJcGMlaF4ZF70Q/viewform?usp=sf_link">
   <span class="btn help">
   We had to cancel our event and we need financial aid
   </span>
