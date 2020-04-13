@@ -3,8 +3,8 @@
 - title: Home
   url: /
 
-- title: About
-  url: /about/
+# - title: About
+#   url: /about/
 
 # Perhaps this will be useful at some point.
 # - title: Blog
