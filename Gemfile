@@ -7,3 +7,4 @@ gem 'jekyll-feed'
 gem 'jekyll-sitemap'
 gem "jekyll-gist", "~> 1.5"
 gem 'jekyll-twitter-plugin'
+gem 'jekyll-paginate-v2'
