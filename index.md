@@ -13,13 +13,13 @@ search_omit: true
 
 COVID-19 is impacting the open source industry in many ways. If you or your community has been impacted, please let us know. We are actively looking for ways to help. Help may come in many forms such as advice on how to cancel and negotiate your event contracts, how to managed digital events, and individual or organizational financial support.
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScZRebv2rtUAj3mkv7z_9Hm_fY1k_lHL8HJxGtUq9Fu1vU0cQ/viewform?usp=sf_link">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSewVAMJtdFz6tkb2wm6opqZRaiPTH0gQKPaPa4oZxHIbWqyxw/viewform?usp=sf_link">
   <span class="btn help">
   I need financial or other help because an event was cancelled
   </span>
 </a>
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScn12T0S1HO_zR4tYXh-777B8M-zH3Bh2TCn66NTqw4j37pRg/viewform?usp=sf_link">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdqRVhTnkj-LzzA9R9dD1WM1BADDJCn5I4cRJU9x6bSGBmbew/viewform?usp=sf_link">
   <span class="btn help">
   We had to cancel our event and we need financial aid
   </span>
