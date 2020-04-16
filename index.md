@@ -32,50 +32,50 @@ search_omit: true
     <div class="col-md-6 photo-box emergency">
       <img src="images/avataaars.png" class="avatar" alt="Woe is me!">
       <p>I was going to attend a conference that was cancelled. Now I need help with the costs that the conference can’t reimburse anymore.</p>
-      <button type="button" class="btn btn-primary link-button">
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSeb9yPu3wuA8yklb-bdz9L6x3TLNeK1B4ws9Nf0QB473dV-_A/viewform" role="button" class="btn btn-primary link-button">
         Apply for emergency funds
         <img src="images/chevron-right-solid.svg" />
-      </button>
+      </a>
     </div>
     <div class="col-md-6 photo-box-right emergency-event">
       <img src="images/avataaars (1).png" class="avatar" alt="Woe is me!">
       <p>Our project had to cancel a small or large event and we need financial help. Without this, the project could be in real trouble!</p>
-      <button type="button" class="btn btn-primary link-button">
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSfncGLt7NQZIsFftsVJ-9upsXx7gYaJwJMkMgVK5ou9UIgZYw/viewform" role="button" class="btn btn-primary link-button">
         Apply for emergency funds
         <img src="images/chevron-right-solid.svg" />
-      </button>
+      </a>
     </div>
   </div>
   <div class="row">
     <div class="col-md-6 photo-box amplify">
       <img src="images/avataaars-2.png" class="avatar" alt="Woe is me!">
       <p>We were relying on these events to boost publicity for my project. Without this promotion, we are struggling to get donations and publicity!</p>
-      <button type="button" class="btn btn-primary link-button">
+      <a href="https://community.fossresponders.com/t/foss-crowdfunding-campaigns-that-need-your-help/61" role="button" class="btn btn-primary link-button">
         Amplify our project
         <img src="images/chevron-right-solid.svg" />
-      </button>
+      </a>
     </div>
     <div class="col-md-6 photo-box-right recruit">
       <img src="images/avataaars (1)-2.png" class="avatar" alt="Woe is me!">
       <p>We rely on conferences and events to recruit new contributors and volunteers for our project. Without this we may struggle!</p>
-      <button type="button" class="btn btn-primary link-button">
+      <a href="https://community.fossresponders.com/t/foss-matchmakers-a-place-to-place-to-find-help-and-volunteer-assistance/62" role="button" class="btn btn-primary link-button">
         Recruit volunteers
         <img src="images/chevron-right-solid.svg" />
-      </button>
+      </a>
     </div>
   </div>
   <div class="row justify-content-md-center">
     <div class="col-md-6 photo-box advice">
       <img src="images/avataaars (2).png" class="avatar" alt="Woe is me!">
       <p>We were relying on these events to boost publicity for my project. Without this promotion, we are struggling to get donations and publicity!</p>
-      <button type="button" class="btn btn-primary link-button d-md-none">
+      <a href="https://community.fossresponders.com/t/here-is-a-curated-list-of-remote-event-planning-resources/60" role="button" class="btn btn-primary link-button d-md-none">
         Get advice
         <img src="images/chevron-right-solid.svg" />
-      </button>
-      <button type="button" class="btn btn-primary link-button d-none d-md-block">
+      </a>
+      <a href="https://community.fossresponders.com/t/here-is-a-curated-list-of-remote-event-planning-resources/60" role="button" class="btn btn-primary link-button d-none d-md-block">
         Advice on running my community online
         <img src="images/chevron-right-solid.svg" />
-      </button>
+      </a>
     </div>
   </div>
   <div class="row justify-content-md-center">
@@ -102,48 +102,48 @@ search_omit: true
     <div class="col-md-6 photo-box crowdfunds">
       <img src="images/avataaars-1.png" class="avatar" alt="I want to help crowdfund!">
       <p>I’ve heard there’s open source organisations that need larger amounts of funding, I think I can help with that!</p>
-      <button type="button" class="btn btn-primary link-button d-md-none">
+      <a href="https://community.fossresponders.com/t/foss-crowdfunding-campaigns-that-need-your-help/61" role="button" class="btn btn-primary link-button d-md-none">
         Help larger crowdfunds
         <img src="images/chevron-right-solid.svg" />
-      </button>
-      <button type="button" class="btn btn-primary link-button d-none d-md-block">
+      </a>
+      <a href="https://community.fossresponders.com/t/foss-crowdfunding-campaigns-that-need-your-help/61" role="button" class="btn btn-primary link-button d-none d-md-block">
         Help larger crowdfunds for projects
         <img src="images/chevron-right-solid.svg" />
-      </button>
+      </a>
     </div>
     <div class="col-md-6 photo-box-right donate-time">
       <img src="images/avataaars (1)-1.png" class="avatar" alt="I can donate my time!">
       <p>I can’t donate but I have time, skills or a service that I can offer an OSS project or I can help with FOSS responders!</p>
-      <button type="button" class="btn btn-primary link-button">
+      <a href="https://community.fossresponders.com/t/foss-matchmakers-a-place-to-place-to-find-help-and-volunteer-assistance/62" role="button" class="btn btn-primary link-button">
         Find a project that needs you
         <img src="images/chevron-right-solid.svg" />
-      </button>
+      </a>
     </div>
   </div>
   <div class="row">
     <div class="col-md-6 photo-box mentor">
       <img src="images/avataaars (1)-3.png" class="avatar" alt="I can mentor!">
       <p>We’ve been running online events, conferences and communities for a while and can help other orgs to get better with online activity.</p>
-      <button type="button" class="btn btn-primary link-button d-md-none">
+      <a href="https://community.fossresponders.com/t/foss-matchmakers-a-place-to-place-to-find-help-and-volunteer-assistance/62" role="button" class="btn btn-primary link-button d-md-none">
         Offer your expertise
         <img src="images/chevron-right-solid.svg" />
-      </button>
-      <button type="button" class="btn btn-primary link-button d-none d-md-block">
+      </a>
+      <a href="https://community.fossresponders.com/t/foss-matchmakers-a-place-to-place-to-find-help-and-volunteer-assistance/62" role="button" class="btn btn-primary link-button d-none d-md-block">
         Offer your expertise with online activity
         <img src="images/chevron-right-solid.svg" />
-      </button>
+      </a>
     </div>
     <div class="col-md-6 photo-box-right cancellations">
       <img src="images/avataaars-3.png" class="avatar" alt="I know events that have been cancelled!">
       <p>I can help with find out what other conferences and events have been cancelled and the details of that, I love doing this kind of information gathering!</p>
-      <button type="button" class="btn btn-primary link-button d-md-none">
+      <a href="https://airtable.com/shr5QBJUPPOQUJfND" role="button" class="btn btn-primary link-button d-md-none">
         Contribute info on events
         <img src="images/chevron-right-solid.svg" />
-      </button>
-      <button type="button" class="btn btn-primary link-button d-none d-md-block">
+      </a>
+      <a href="https://airtable.com/shr5QBJUPPOQUJfND" role="button" class="btn btn-primary link-button d-none d-md-block">
         Contribute information on cancellations
         <img src="images/chevron-right-solid.svg" />
-      </button>
+      </a>
     </div>
   </div>
   <div class="row justify-content-md-center">
@@ -164,7 +164,7 @@ search_omit: true
             <li class="two">Provide emergency funds for those falling through the cracks of the traditional open source funding channels like foundation donations and membership, GitHub Sponsors, and Open Collective.</li>
             <li class="three">Create a Resource Center for projects to find tips and tricks on how to manage fully virtual community interactions, including events.</li>
           </ul>
-          <button type="button" class="btn btn-primary join-us">Join the growing FOSS responders <img src="images/users-solid.svg" alt="Our members" /></button>
+          <a href="https://fossresponders.discourse.group/" role="button" class="btn btn-primary join-us">Join FOSS responders <img src="images/users-solid.svg" alt="Our members" /></a>
         </div>
         <div class="col-md-6 section-photo d-none d-md-block">
           <img src="images/undraw_connected_world_wuay.svg"/>
@@ -212,7 +212,7 @@ search_omit: true
       <p>On May 1st, the FOSS Responders will be hosting a virtual event to provide financial support for organizations adversely affected by COVID-19 economic tumult.</p>
       <p>Sponsored by Facebook, Indeed, Open Source Collective (and YOU!) <a href="https://slack-redir.net/link?url=https%3A%2F%2Fopencollective.com%2Ffoss-responders%2Fevents%2Fvirtual-funding-event-q2-2020-4edd1e3a">the Virtual FOSS Fund Event</a> is designed to help reverse current and projected losses of conference cancellations, fundraising trajectories, and lost business opportunities that open source software organizations are experiencing all over the world.</p>
       <p>If you want to participate as a FOSS Funder, please email <a href="mailto:foss-responders@googlegroups.com">foss-responders@googlegroups.com</a>.</p>
-      <button type="button" class="btn btn-primary join-us">View info about virtual hiring events <img src="images/eye-solid.svg" alt="Join our event!" /></button>
+      <a href="https://slack-redir.net/link?url=https%3A%2F%2Fopencollective.com%2Ffoss-responders%2Fevents%2Fvirtual-funding-event-q2-2020-4edd1e3a" role="button" class="btn btn-primary join-us">View info about virtual hiring events <img src="images/eye-solid.svg" alt="Join our event!" /></a>
     </div>
     <div class="col-lg-6 section-photo">
       <img src="images/events.svg"/>
@@ -244,13 +244,17 @@ search_omit: true
       <div class="row justify-content-md-center">
         <div class="col-md-6">
           <h1>Contact</h1>
-          <p>If you have questions, take a look at our FAQ.</p>
-          <button class="btn btn-primary faqs" type="button">
+          <p>We're working on an FAQ page. Watch this space!</p>
+          <p>For now, you can always
+          <!-- <p>If you have questions, take a look at our FAQ.</p> -->
+          <!--
+          TODO Design the FAQ page
+          <a href="" class="btn btn-primary faqs" role="button">
             Take a look at our FAQS
             <img src="images/question-circle-regular.svg" alt="Do you have questions?" />
-          </button>
-          <p>Have a question?<br />
-          Email us at <a href="mailto:foss-responders@googlegroups.com">foss-responders@googlegroups.com</a>.
+          </a>
+          <p>Have a question?<br /> -->
+          email us at <a href="mailto:foss-responders@googlegroups.com">foss-responders@googlegroups.com</a>.
           </p>
         </div>
         <div class="col-md-6 section-photo">

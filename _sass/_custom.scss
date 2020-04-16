@@ -58,7 +58,11 @@ p {
 a {
   text-decoration: underline;
   color: #2A27F4;
+  &.btn {
+    text-decoration: none;
+  }
 }
+
 
 .logo {
   margin: 0px auto;
