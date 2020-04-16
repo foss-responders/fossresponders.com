@@ -10,10 +10,6 @@ $black: #4F434D;
   text-align: center;
 }
 
-.text-left {
-  text-align: left;
-}
-
 body {
   font-family: $primary-font;
   text-align: center;
@@ -238,8 +234,10 @@ h1 {
 
 .oc-image {
   margin: 50px 0px 80px;
+  max-width: 100%;
 }
 
+// Two buttons
 .join-us {
   background-color: #FFDD57;
   color: $black;
@@ -262,9 +260,28 @@ h1 {
   margin-bottom: 3vh;
 }
 
-.section-photo img {
-  max-width: 100;
-  margin-top: 80px;
+@include media-breakpoint-down(sm) {
+  .join-us {
+    padding: 15px 10px;
+    img {
+      padding-left: 5px;
+    }
+  }
+  .faqs {
+    padding: 15px 10px;
+    img {
+      padding-left: 10px;
+    }
+  }
+}
+
+
+.section-photo {
+  @extend .text-center;
+  img {
+    max-width: 100%;
+    margin-top: 80px;
+  }
 }
 
 #who-we-are {
@@ -326,5 +343,15 @@ h1 {
   letter-spacing: 0.02px;
   img {
     transform: scale(50%) rotate(-90deg);
+  }
+}
+
+
+@include media-breakpoint-down(sm) {
+  button, .photo-box .link-button {
+    text-align: center;
+    float: none;
+    width: 100%;
+    margin: 30px 0px;
   }
 }

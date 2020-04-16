@@ -7,97 +7,257 @@ excerpt: "Helping the Open Source ecosystem respond to Coronavirus"
 search_omit: true
 ---
 
-
-<!--
-<div id="main" role="main">
-
-      ## Need help?
-
-      COVID-19 is impacting the open source industry in many ways. If you or your community has been impacted, please let us know. We are actively looking for ways to help. Help may come in many forms such as advice on how to cancel and negotiate your event contracts, how to managed digital events, and individual or organizational financial support.
-
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLScZRebv2rtUAj3mkv7z_9Hm_fY1k_lHL8HJxGtUq9Fu1vU0cQ/viewform?usp=sf_link">
-        <span class="btn help">
-        I need financial or other help because an event was cancelled
-        </span>
-      </a>
-
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLScn12T0S1HO_zR4tYXh-777B8M-zH3Bh2TCn66NTqw4j37pRg/viewform?usp=sf_link">
-        <span class="btn help">
-        We had to cancel our event and we need financial aid
-        </span>
-      </a>
-
-      <a href="https://github.com/foss-responders/support-requests/issues/new?assignees=&labels=&template=we-need-people-to-help-us-organize-or-respond.md&title=%5BORGANIZE%5D">
-        <span class="btn help">
-        We need people to help us organize or respond
-        </span>
-      </a>
-
-      Have something else you need? Please [open an issue](https://github.com/foss-responders/support-requests/issues/new) on GitHub or [join our Slack](https://slack.opencollective.com/#fossresponders). If you’d rather email than open a GitHub issue, please feel free to contact us at [foss-responders@googlegroups.com](mailto:foss-responders@googlegroups.com).
-
-      ## We Can Give Help
-
-      That's great!
-
-      If you are in a position to give help via funding, you are encouraged to use our OpenCollective to donate. Their system allows us to ensure transparency and access for all.
-
-      We will also make sure to thank each and everyone helping!
-
-      <a href="https://opencollective.com/foss-responders/donate" target="_blank">
-      ![Contribute](https://opencollective.com/foss-responders/donate/button@2x.png?color=blue){:width="300"}
-      </a>
-
-      ## Conferences
-
-      - Here is [a dynamic list of cancelled events](https://airtable.com/shrETNURgXNrGWbd8/tblc49hMMykARebo8). Not seeing an event? [Add it here](https://airtable.com/shr5QBJUPPOQUJfND).
-      - If you were sponsoring a cancelled conference for recruitment purposes and you still want to connect with prospective candidates, Indeed is working on scheduling virtual hiring events. [Click here for more information](https://events.indeed.com/hiringevents/#get_started_form).
-
-      What else should be here? [Get in touch](mailto:foss-responders@googlegroups.com!)
-
-
-      ## Funding
-
-      - [Indeed's Open Source Program Office](https://opensource.indeed.com) and the [Open Collective](https://opencollective.com) are organizing a FOSS Funders event in Q2 with a focus on projects impacted by COVID-19. They're looking for others to join in organization, sponsorship, mentorship, and outreach. Send an email to [opensource@indeed.com](mailto:opensource@indeed.com) for details.
-
-      What else should be here? [Get in touch](mailto:foss-responders@googlegroups.com).
-
-      ## About
-
-      <p class="center"><a href="https://slack.opencollective.com/#fossresponders"><img src="https://img.shields.io/badge/slack-open%20collective-blue" alt="Slack link to Open Collective Slack"/></a> <a href="https://riot.im/app/#/room/#fossresponders:matrix.org"><img src="https://img.shields.io/badge/matrix-%23fossresponders--db%3Amatrix.org-blue.svg" alt="Connect to Matrix bridge" /></a></p>
-
-      Open source software depends upon real-world interactions just as much as it does on code. With the alarming spread of the Coronavirus, the open source ecosystem is being affected in enormously impactful ways. This site is one of many efforts to help.
-
-      It started as an organic movement led by Duane O'Brien (Indeed.com), Megan Byrd-Sanicki (Google), and others. We're open to all who can help out!
-
-      ## Who we are
-
-      FOSS Responders is an open source, open project. Anyone can jump in and work on it. It is entirely volunteer run. Right now, we're in particular need of funders, designers, and people to spread the word.
-
-      Some of the companies where our volunteers work (but may or may not be representing their company) include:
-
-      - [Aspiration](https://aspirationtech.org/)
-      - [GitLab](https://about.gitlab.com/)
-      - [Indeed](https://indeed.com)
-      - [Maintainer Mountaineer](https://maintainer.io)
-      - [Open Collective](https://opencollective.com)
-      - [Open Source Collective](https://www.oscollective.org/)
-      - [Red Hat](https://www.redhat.com/)
-      - ...and yours?
-
-      ## Other Efforts
-
-      While not dedicated entirely to open source, here are some other programs that need help
-
-      * [Covid19 Response Fund](https://covid19responsefund.org/). Donate directly to the WHO, who will allocate funds to efforts that need it.
-      * [Portland Corona Virus Mutual Aid Open Collective](https://opencollective.com/portland-corona-virus-mutual-aid-fund). Donate to those in Portland who need help.
-      * [Organizing Virtual Events Handbook](https://make.wordpress.org/community/handbook/meetup-organizer/resources/organizing-virtual-events/). Assembled by the Wordpress community.
-      * [Running My First Online Meetup](https://dev.to/_phzn/running-my-first-online-meetup-o1h). How to livestream events.
-
-      ## Contact
-
-      If you have questions, take a look at our [FAQ](/faq/). This will grow as more people ask questions and we their responses to it.
-
-      {% include contact.html %}
-
-      </div><!-- /.entry-content -->
-<!-- </div><!-- /#main -->
+<div class="logo">
+  <img src="images/Foss-responder-hp-logo.png" alt="FOSS Responders Logo" >
+  <h1 class="tagline">
+    <span class="foss">FOSS</span> <span class="responds">Responds</span> <span class="together">Together</span>
+  </h1>
+</div>
+<div class="container">
+  <div class="row justify-content-md-center top-content">
+    <div class="col-md-10">
+      <p>With the recent cancellations of open source events due to COVID-19, the future of the FOSS community is unknown.<br class="d-none d-lg-block"/> The only way to sustain our community is together, and <strong>FOSS Responders are here to help.</strong></p>
+      <p>On this site, you’ll find support for those directly affected by event cancellations.<br class="d-none d-lg-block"/> Additionally, you’ll find resources for donating, volunteering, and other ways to contribute.</p>
+      <p><strong>The need is real, and the time to act is now.</strong></p>
+    </div>
+  </div>
+  <hr style="border-color:#7BC9AC;"/>
+  <div class="row justify-content-md-center" id="need-help">
+    <div class="col-md">
+      <h1>Need help?</h1>
+      <hr class="mini" style="border-color:#FF62A0;"/>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6 photo-box emergency">
+      <img src="images/avataaars.png" class="avatar" alt="Woe is me!">
+      <p>I was going to attend a conference that was cancelled. Now I need help with the costs that the conference can’t reimburse anymore.</p>
+      <button type="button" class="btn btn-primary link-button">
+        Apply for emergency funds
+        <img src="images/chevron-right-solid.svg" />
+      </button>
+    </div>
+    <div class="col-md-6 photo-box-right emergency-event">
+      <img src="images/avataaars (1).png" class="avatar" alt="Woe is me!">
+      <p>Our project had to cancel a small or large event and we need financial help. Without this, the project could be in real trouble!</p>
+      <button type="button" class="btn btn-primary link-button">
+        Apply for emergency funds
+        <img src="images/chevron-right-solid.svg" />
+      </button>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6 photo-box amplify">
+      <img src="images/avataaars-2.png" class="avatar" alt="Woe is me!">
+      <p>We were relying on these events to boost publicity for my project. Without this promotion, we are struggling to get donations and publicity!</p>
+      <button type="button" class="btn btn-primary link-button">
+        Amplify our project
+        <img src="images/chevron-right-solid.svg" />
+      </button>
+    </div>
+    <div class="col-md-6 photo-box-right recruit">
+      <img src="images/avataaars (1)-2.png" class="avatar" alt="Woe is me!">
+      <p>We rely on conferences and events to recruit new contributors and volunteers for our project. Without this we may struggle!</p>
+      <button type="button" class="btn btn-primary link-button">
+        Recruit volunteers
+        <img src="images/chevron-right-solid.svg" />
+      </button>
+    </div>
+  </div>
+  <div class="row justify-content-md-center">
+    <div class="col-md-6 photo-box advice">
+      <img src="images/avataaars (2).png" class="avatar" alt="Woe is me!">
+      <p>We were relying on these events to boost publicity for my project. Without this promotion, we are struggling to get donations and publicity!</p>
+      <button type="button" class="btn btn-primary link-button d-md-none">
+        Get advice
+        <img src="images/chevron-right-solid.svg" />
+      </button>
+      <button type="button" class="btn btn-primary link-button d-none d-md-block">
+        Advice on running my community online
+        <img src="images/chevron-right-solid.svg" />
+      </button>
+    </div>
+  </div>
+  <div class="row justify-content-md-center">
+    <div class="col-md-10 email-us">
+      <p>Have something else you need? Email us at <a href="mailto:foss-responders@googlegroups.com">foss-responders@googlegroups.com</a>.
+      </p>
+    </div>
+  </div>
+  <hr style="border-color:#FFDD57;"/>
+  <div class="row justify-content-md-center" id="offer-help">
+    <div class="col-md">
+      <h1>Offer help!</h1>
+      <hr class="mini" style="border-color:#58B2E4;"/>
+    </div>
+  </div>
+  <div class="row justify-content-md-center">
+    <div class="col-md-10">
+      <p>Now is time to give back to the projects we depend on.<br />This is how we future-proof our open source infrastructure and help millions who built the software we benefit from.</p>
+      <p>Donate to the FOSS Responders Open Collective and your funds will be used to help individuals and projects who might otherwise fall through the cracks.<br class="d-none d-lg-block"/> Open Collective waived their fees so 100% directly support those in need.</p>
+      <img class="oc-image" src="images/Image 1.png" alt="Donate to Open Collective" />
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6 photo-box crowdfunds">
+      <img src="images/avataaars-1.png" class="avatar" alt="I want to help crowdfund!">
+      <p>I’ve heard there’s open source organisations that need larger amounts of funding, I think I can help with that!</p>
+      <button type="button" class="btn btn-primary link-button d-md-none">
+        Help larger crowdfunds
+        <img src="images/chevron-right-solid.svg" />
+      </button>
+      <button type="button" class="btn btn-primary link-button d-none d-md-block">
+        Help larger crowdfunds for projects
+        <img src="images/chevron-right-solid.svg" />
+      </button>
+    </div>
+    <div class="col-md-6 photo-box-right donate-time">
+      <img src="images/avataaars (1)-1.png" class="avatar" alt="I can donate my time!">
+      <p>I can’t donate but I have time, skills or a service that I can offer an OSS project or I can help with FOSS responders!</p>
+      <button type="button" class="btn btn-primary link-button">
+        Find a project that needs you
+        <img src="images/chevron-right-solid.svg" />
+      </button>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6 photo-box mentor">
+      <img src="images/avataaars (1)-3.png" class="avatar" alt="I can mentor!">
+      <p>We’ve been running online events, conferences and communities for a while and can help other orgs to get better with online activity.</p>
+      <button type="button" class="btn btn-primary link-button d-md-none">
+        Offer your expertise
+        <img src="images/chevron-right-solid.svg" />
+      </button>
+      <button type="button" class="btn btn-primary link-button d-none d-md-block">
+        Offer your expertise with online activity
+        <img src="images/chevron-right-solid.svg" />
+      </button>
+    </div>
+    <div class="col-md-6 photo-box-right cancellations">
+      <img src="images/avataaars-3.png" class="avatar" alt="I know events that have been cancelled!">
+      <p>I can help with find out what other conferences and events have been cancelled and the details of that, I love doing this kind of information gathering!</p>
+      <button type="button" class="btn btn-primary link-button d-md-none">
+        Contribute info on events
+        <img src="images/chevron-right-solid.svg" />
+      </button>
+      <button type="button" class="btn btn-primary link-button d-none d-md-block">
+        Contribute information on cancellations
+        <img src="images/chevron-right-solid.svg" />
+      </button>
+    </div>
+  </div>
+  <div class="row justify-content-md-center">
+    <div class="col-md email-us">
+      <p>Is what you want to offer not here? Please email <a href="mailto:foss-responders@googlegroups.com">foss-responders@googlegroups.com</a>.</p>
+    </div>
+  </div>
+  <hr style="border-color:#58B2E4;"/>
+  <div class="row text-left justify-content-md-center" id="who-we-are">
+    <div class="col-lg-10">
+      <div class="row justify-content-md-center">
+        <div class="col-md-6">
+          <h1>Who we are</h1>
+          <p>FOSS Responders is a working group of volunteers from various organizations. Our purpose is to provide a crowd-sourcing approach to help those in the open source community affected by COVID-19, especially in the face of event cancellations.</p>
+          <h2>Our mission</h2>
+          <ul>
+            <li class="one">Aggregate and amplify the financial and non-financial needs of FOSS communities affected by COVID-19 via our site and FOSS Funders Events, so it is easy to find who to help and how.</li>
+            <li class="two">Provide emergency funds for those falling through the cracks of the traditional open source funding channels like foundation donations and membership, GitHub Sponsors, and Open Collective.</li>
+            <li class="three">Create a Resource Center for projects to find tips and tricks on how to manage fully virtual community interactions, including events.</li>
+          </ul>
+          <button type="button" class="btn btn-primary join-us">Join the growing FOSS responders <img src="images/users-solid.svg" alt="Our members" /></button>
+        </div>
+        <div class="col-md-6 section-photo d-none d-md-block">
+          <img src="images/undraw_connected_world_wuay.svg"/>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row justify-content-md-center attributions">
+    <div class="col-lg-10">
+      <p class="center">This working group is made up of individuals and organizations including:</p>
+      <p class="center">Duane O’Brien, Megan Byrd-Sanicki, Richard Littauer, Nuritzi Sanchez, Tony Urso, Alyssa Wright, Rachel Lawson, Allen Gunn, Eriol Fox , Devon Zuegel, Jacob Redding, Ruth Suehle, Michael Cheng, Damon Gregory, Scott Moore, Shirley Bailes, Jocelyn Matthews…and more!</p>
+    </div>
+  </div>
+  <div class="row justify-content-md-center" id="logos">
+    <div class="col-lg-10">
+      <div class="row justify-content-md-center">
+        <div class="col-xs-4 col-sm-6 col-md-2">
+          <img src="images/Layer 2.svg" alt="Aspiration">
+        </div>
+        <div class="col-xs-4 col-sm-6 col-md-3">
+          <img src="images/Image 6.png" alt="Red Hat">
+        </div>
+        <div class="col-xs-4 col-sm-6 col-md-3">
+          <img src="images/Image 7.png" alt="Facebook">
+        </div>
+        <div class="col-xs-4 col-sm-6 col-md-3">
+          <img src="images/Image 3.png" alt="GitLab">
+        </div>
+        <div class="col-xs-4 col-sm-6 col-md-3">
+          <img src="images/Image 4.png" alt="Indeed">
+        </div>
+        <div class="col-xs-4 col-sm-6 col-md-3">
+          <img src="images/maintainer-io-logo.png" alt="Maintainer Mountaineer">
+        </div>
+        <div class="col-xs-4 col-sm-6 col-md-3">
+          <img src="images/Image 5.png" alt="Open Collective">
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr style="border-color:#FF62A0;"/>
+  <div class="row text-left justify-content-md-center" id="events">
+    <div class="col-lg-5 offset-lg-1">
+      <h1>Events</h1>
+      <p>On May 1st, the FOSS Responders will be hosting a virtual event to provide financial support for organizations adversely affected by COVID-19 economic tumult.</p>
+      <p>Sponsored by Facebook, Indeed, Open Source Collective (and YOU!) <a href="https://slack-redir.net/link?url=https%3A%2F%2Fopencollective.com%2Ffoss-responders%2Fevents%2Fvirtual-funding-event-q2-2020-4edd1e3a">the Virtual FOSS Fund Event</a> is designed to help reverse current and projected losses of conference cancellations, fundraising trajectories, and lost business opportunities that open source software organizations are experiencing all over the world.</p>
+      <p>If you want to participate as a FOSS Funder, please email <a href="mailto:foss-responders@googlegroups.com">foss-responders@googlegroups.com</a>.</p>
+      <button type="button" class="btn btn-primary join-us">View info about virtual hiring events <img src="images/eye-solid.svg" alt="Join our event!" /></button>
+    </div>
+    <div class="col-lg-6 section-photo">
+      <img src="images/events.svg"/>
+    </div>
+  </div>
+  <hr style="border-color:#7BC9AC;"/>
+  <div class="row text-left justify-content-md-center" id="about">
+    <div class="col-lg-10">
+      <div class="row justify-content-md-center">
+        <div class="col-md">
+          <h1>About our programs</h1>
+          <ul>
+            <li class="one"><strong>Volunteer Matching:</strong> Projects need more people on deck to help during this challenging time. Visit our <a href="https://community.fossresponders.com/c/resources/matchmaking/7">FOSS Matchmaking Center</a> to see the list of volunteer opportunities and donate your time and talents today.</li>
+            <li class="two"><strong>Amplify Project Funding Needs Online:</strong> Projects and organizations need financial support to remain sustainable during this challenging time. <a href="https://community.fossresponders.com/t/foss-crowdfunding-campaigns-that-need-your-help/61">See the list of needs and how you or your employer can contribute.</a></li>
+            <li class="three"><strong>FOSS Funders Event:</strong> On May 1st, 2020, we will host a <a href="https://opencollective.com/foss-responders/events/virtual-funding-event-q2-2020-4edd1e3a#section-about">FOSS Funders event</a> to connect the needs of projects and organizations to organizations with available funds.</li>
+            <li class="four"><strong>FOSS Responders Fund:</strong> We provide emergency funds to community members and projects affected by COVID-19 related event cancellations and postponements. Apply today for <a href="https://docs.google.com/forms/d/e/1FAIpQLSd74U6Q082n70xlpBiZ8m2m4pj7gIsr-hL-Scli7y0yGtK9rQ/viewform?usp=sf_link">Individuals</a> and <a href="https://docs.google.com/forms/d/e/1FAIpQLSdm1op4FcFJJFPXDxwoQDK3fGnZO6hnQEbXmJcGMlaF4ZF70Q/viewform?usp=sf_link">projects</a> emergency funds or <a href="https://opencollective.com/foss-responders/donate">donate</a> to the fund today.</li>
+            <li class="five"><strong>Online Community Management Resource Center:</strong> We are aggregating the many highly valuable tips and tricks shared by industry experts in our resource center. Find or share your resources <a href="https://community.fossresponders.com/c/resources/8">here</a>.</li>
+          </ul>
+        </div>
+        <div class="col-md-6 section-photo d-none d-md-block">
+          <img src="images/About our programs.svg"/>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr style="border-color:#58B2E4;"/>
+  <div class="row justify-content-md-center text-left" id="contact">
+    <div class="col-lg-10">
+      <div class="row justify-content-md-center">
+        <div class="col-md-6">
+          <h1>Contact</h1>
+          <p>If you have questions, take a look at our FAQ.</p>
+          <button class="btn btn-primary faqs" type="button">
+            Take a look at our FAQS
+            <img src="images/question-circle-regular.svg" alt="Do you have questions?" />
+          </button>
+          <p>Have a question?<br />
+          Email us at <a href="mailto:foss-responders@googlegroups.com">foss-responders@googlegroups.com</a>.
+          </p>
+        </div>
+        <div class="col-md-6 section-photo">
+          <img src="images/undraw_mail_box_kd5i.svg" alt="Send us a letter!" />
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr style="border-color:#FF62A0;"/>
+</div>

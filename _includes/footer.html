@@ -1,9 +1,42 @@
-<div class="small-print">Suggest an edit or modification <a href="{{ site.github }}" target="_blank">on GitHub</a>.<br />
-	<div>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}. <a href="{{ BASE_URL}}/privacy/">Privacy</a>.</div>
-	<div class="social-icons">
-		<a href="mailto:{{site.owner.email}}" title="Email us!" target="_blank"><img src="images/envelope-square-solid.svg" /></a>
-		<a href="https://github.com/fossresponders/foss-responders" title="Improve this site on GitHub" target="_blank"><img src="images/github-square-brands.svg" /></a>
-		<a href="{{ site.url }}/feed.xml" title="Subscribe to the Atom/RSS feed"><img src="images/rss-square-solid.svg" /></a>
-		<a href="https://slack.opencollective.com/#foss-responders" title="Email us!" target="_blank"><img src="images/slack-brands.svg" /></a>
-		<a href="https://fossresponders.discourse.group/" title="Join our Discourse" target="_blank"><img src="images/discourse-brands.svg" /></a>
-</div><!-- /.social-icons -->
+<div class="footer-wrapper" id="footer">
+	<footer role="contentinfo" class="entry-wrapper">
+		<div class="container">
+			<div class="row justify-content-md-center">
+				<div class="col-md-8">
+					<div class="row justify-content-center">
+						<div class="col-md-3">
+							<a href="#need-help">Need Help?</a>
+						</div>
+						<div class="col-md-3">
+							<a href="#offer-help">Offer Help!</a>
+						</div>
+						<div class="col-md-3">
+							<a href="#about">About our programs</a>
+						</div>
+						<div class="col-md-3">
+							<a href="#contact">Contact</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="small-print">Suggest an edit or modification <a href="{{ site.github }}" target="_blank">on GitHub</a>.<br />
+			<div>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}. <a href="{{ BASE_URL}}/privacy/">Privacy</a>.</div>
+			<div class="social-icons">
+				<a href="mailto:{{site.owner.email}}" title="Email us!" target="_blank"><img src="{{ BASE_PATH }}images/envelope-square-solid.svg" /></a>
+				<a href="https://github.com/fossresponders/foss-responders" title="Improve this site on GitHub" target="_blank"><img src="{{ BASE_PATH }}images/github-square-brands.svg" /></a>
+				<a href="{{ site.url }}/feed.xml" title="Subscribe to the Atom/RSS feed"><img src="{{ BASE_PATH }}images/rss-square-solid.svg" /></a>
+				<a href="https://slack.opencollective.com/#foss-responders" title="Email us!" target="_blank"><img src="{{ BASE_PATH }}images/slack-brands.svg" /></a>
+				<a href="https://fossresponders.discourse.group/" title="Join our Discourse" target="_blank"><img src="{{ BASE_PATH }}images/discourse-brands.svg" /></a>
+			</div><!-- /.social-icons -->
+	</footer>
+</div><!-- /.footer-wrapper -->
+
+<div class="container" id="back-to-top">
+	<div class="row">
+		<div class="col" style="background-color:#FF62A0;">
+			<p>Back to Top <img src="{{ BASE_PATH }}images/chevron-right-solid.svg" alt="Back to top"></p>
+		</div>
+	</div>
+</div>
+
