@@ -50,7 +50,7 @@ search_omit: true
     <div class="col-md-6 photo-box amplify">
       <img src="images/avataaars-2.png" class="avatar" alt="Woe is me!">
       <p>We were relying on these events to boost publicity for my project. Without this promotion, we are struggling to get donations and publicity!</p>
-      <a href="https://community.fossresponders.com/t/foss-crowdfunding-campaigns-that-need-your-help/61" role="button" class="btn btn-primary link-button">
+      <a href="https://fossresponders.discourse.group/t/foss-crowdfunding-campaigns-that-need-your-help/61" role="button" class="btn btn-primary link-button">
         Amplify our project
         <img src="images/chevron-right-solid.svg" />
       </a>
@@ -58,7 +58,7 @@ search_omit: true
     <div class="col-md-6 photo-box-right recruit">
       <img src="images/avataaars (1)-2.png" class="avatar" alt="Woe is me!">
       <p>We rely on conferences and events to recruit new contributors and volunteers for our project. Without this we may struggle!</p>
-      <a href="https://community.fossresponders.com/t/foss-matchmakers-a-place-to-place-to-find-help-and-volunteer-assistance/62" role="button" class="btn btn-primary link-button">
+      <a href="https://fossresponders.discourse.group/t/foss-matchmakers-a-place-to-place-to-find-help-and-volunteer-assistance/62" role="button" class="btn btn-primary link-button">
         Recruit volunteers
         <img src="images/chevron-right-solid.svg" />
       </a>
@@ -68,11 +68,11 @@ search_omit: true
     <div class="col-md-6 photo-box advice">
       <img src="images/avataaars (2).png" class="avatar" alt="Woe is me!">
       <p>We were relying on these events to boost publicity for my project. Without this promotion, we are struggling to get donations and publicity!</p>
-      <a href="https://community.fossresponders.com/t/here-is-a-curated-list-of-remote-event-planning-resources/60" role="button" class="btn btn-primary link-button d-md-none">
+      <a href="https://fossresponders.discourse.group/t/here-is-a-curated-list-of-remote-event-planning-resources/60" role="button" class="btn btn-primary link-button d-md-none">
         Get advice
         <img src="images/chevron-right-solid.svg" />
       </a>
-      <a href="https://community.fossresponders.com/t/here-is-a-curated-list-of-remote-event-planning-resources/60" role="button" class="btn btn-primary link-button d-none d-md-block">
+      <a href="https://fossresponders.discourse.group/t/here-is-a-curated-list-of-remote-event-planning-resources/60" role="button" class="btn btn-primary link-button d-none d-md-block">
         Advice on running my community online
         <img src="images/chevron-right-solid.svg" />
       </a>
@@ -104,11 +104,11 @@ search_omit: true
     <div class="col-md-6 photo-box crowdfunds">
       <img src="images/avataaars-1.png" class="avatar" alt="I want to help crowdfund!">
       <p>I’ve heard there’s open source organisations that need larger amounts of funding, I think I can help with that!</p>
-      <a href="https://community.fossresponders.com/t/foss-crowdfunding-campaigns-that-need-your-help/61" role="button" class="btn btn-primary link-button d-md-none">
+      <a href="https://fossresponders.discourse.group/t/foss-crowdfunding-campaigns-that-need-your-help/61" role="button" class="btn btn-primary link-button d-md-none">
         Help larger crowdfunds
         <img src="images/chevron-right-solid.svg" />
       </a>
-      <a href="https://community.fossresponders.com/t/foss-crowdfunding-campaigns-that-need-your-help/61" role="button" class="btn btn-primary link-button d-none d-md-block">
+      <a href="https://fossresponders.discourse.group/t/foss-crowdfunding-campaigns-that-need-your-help/61" role="button" class="btn btn-primary link-button d-none d-md-block">
         Help larger crowdfunds for projects
         <img src="images/chevron-right-solid.svg" />
       </a>
@@ -116,7 +116,7 @@ search_omit: true
     <div class="col-md-6 photo-box-right donate-time">
       <img src="images/avataaars (1)-1.png" class="avatar" alt="I can donate my time!">
       <p>I can’t donate but I have time, skills or a service that I can offer an OSS project or I can help with FOSS responders!</p>
-      <a href="https://community.fossresponders.com/t/foss-matchmakers-a-place-to-place-to-find-help-and-volunteer-assistance/62" role="button" class="btn btn-primary link-button">
+      <a href="https://fossresponders.discourse.group/t/foss-matchmakers-a-place-to-place-to-find-help-and-volunteer-assistance/62" role="button" class="btn btn-primary link-button">
         Find a project that needs you
         <img src="images/chevron-right-solid.svg" />
       </a>
@@ -126,11 +126,11 @@ search_omit: true
     <div class="col-md-6 photo-box mentor">
       <img src="images/avataaars (1)-3.png" class="avatar" alt="I can mentor!">
       <p>We’ve been running online events, conferences and communities for a while and can help other orgs to get better with online activity.</p>
-      <a href="https://community.fossresponders.com/t/foss-matchmakers-a-place-to-place-to-find-help-and-volunteer-assistance/62" role="button" class="btn btn-primary link-button d-md-none">
+      <a href="https://fossresponders.discourse.group/t/foss-matchmakers-a-place-to-place-to-find-help-and-volunteer-assistance/62" role="button" class="btn btn-primary link-button d-md-none">
         Offer your expertise
         <img src="images/chevron-right-solid.svg" />
       </a>
-      <a href="https://community.fossresponders.com/t/foss-matchmakers-a-place-to-place-to-find-help-and-volunteer-assistance/62" role="button" class="btn btn-primary link-button d-none d-md-block">
+      <a href="https://fossresponders.discourse.group/t/foss-matchmakers-a-place-to-place-to-find-help-and-volunteer-assistance/62" role="button" class="btn btn-primary link-button d-none d-md-block">
         Offer your expertise with online activity
         <img src="images/chevron-right-solid.svg" />
       </a>
@@ -230,11 +230,11 @@ search_omit: true
         <div class="col-md">
           <h1>About our programs</h1>
           <ul>
-            <li class="one"><strong>Volunteer Matching:</strong> Projects need more people on deck to help during this challenging time. Visit our <a href="https://community.fossresponders.com/c/resources/matchmaking/7">FOSS Matchmaking Center</a> to see the list of volunteer opportunities and donate your time and talents today.</li>
-            <li class="two"><strong>Amplify Project Funding Needs Online:</strong> Projects and organizations need financial support to remain sustainable during this challenging time. <a href="https://community.fossresponders.com/t/foss-crowdfunding-campaigns-that-need-your-help/61">See the list of needs and how you or your employer can contribute.</a></li>
+            <li class="one"><strong>Volunteer Matching:</strong> Projects need more people on deck to help during this challenging time. Visit our <a href="https://fossresponders.discourse.group/c/resources/matchmaking/7">FOSS Matchmaking Center</a> to see the list of volunteer opportunities and donate your time and talents today.</li>
+            <li class="two"><strong>Amplify Project Funding Needs Online:</strong> Projects and organizations need financial support to remain sustainable during this challenging time. <a href="https://fossresponders.discourse.group/t/foss-crowdfunding-campaigns-that-need-your-help/61">See the list of needs and how you or your employer can contribute.</a></li>
             <li class="three"><strong>FOSS Funders Event:</strong> On May 1st, 2020, we will host a <a href="https://opencollective.com/foss-responders/events/virtual-funding-event-q2-2020-4edd1e3a#section-about">FOSS Funders event</a> to connect the needs of projects and organizations to organizations with available funds.</li>
             <li class="four"><strong>FOSS Responders Fund:</strong> We provide emergency funds to community members and projects affected by COVID-19 related event cancellations and postponements. Apply today for <a href="https://docs.google.com/forms/d/e/1FAIpQLSd74U6Q082n70xlpBiZ8m2m4pj7gIsr-hL-Scli7y0yGtK9rQ/viewform?usp=sf_link">Individuals</a> and <a href="https://docs.google.com/forms/d/e/1FAIpQLSdm1op4FcFJJFPXDxwoQDK3fGnZO6hnQEbXmJcGMlaF4ZF70Q/viewform?usp=sf_link">projects</a> emergency funds or <a href="https://opencollective.com/foss-responders/donate">donate</a> to the fund today.</li>
-            <li class="five"><strong>Online Community Management Resource Center:</strong> We are aggregating the many highly valuable tips and tricks shared by industry experts in our resource center. Find or share your resources <a href="https://community.fossresponders.com/c/resources/8">here</a>.</li>
+            <li class="five"><strong>Online Community Management Resource Center:</strong> We are aggregating the many highly valuable tips and tricks shared by industry experts in our resource center. Find or share your resources <a href="https://fossresponders.discourse.group/c/resources/8">here</a>.</li>
           </ul>
         </div>
         <div class="col-md-6 section-photo d-none d-md-block">
