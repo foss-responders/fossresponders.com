@@ -95,7 +95,9 @@ search_omit: true
     <div class="col-md-10">
       <p>Now is time to give back to the projects we depend on.<br />This is how we future-proof our open source infrastructure and help millions who built the software we benefit from.</p>
       <p>Donate to the FOSS Responders Open Collective and your funds will be used to help individuals and projects who might otherwise fall through the cracks.<br class="d-none d-lg-block"/> Open Collective waived their fees so 100% directly support those in need.</p>
-      <img class="oc-image" src="images/Image 1.png" alt="Donate to Open Collective" />
+      <a href="https://opencollective.com/foss-responders" target="_blank" title="Donate to our Open Collective!">
+        <img class="oc-image" src="images/Image 1.png" alt="Donate to Open Collective" />
+      </a>
     </div>
   </div>
   <div class="row">
