@@ -137,7 +137,7 @@ search_omit: true
     </div>
     <div class="col-md-6 photo-box-right cancellations">
       <img src="images/avataaars-3.png" class="avatar" alt="I know events that have been cancelled!">
-      <p>I can help with find out what other conferences and events have been cancelled and the details of that, I love doing this kind of information gathering!</p>
+      <p>I can help with finding out what other conferences and events have been cancelled and their details. I love doing this kind of information gathering!</p>
       <a href="https://airtable.com/shr5QBJUPPOQUJfND" role="button" class="btn btn-primary link-button d-md-none">
         Contribute info on events
         <img src="images/chevron-right-solid.svg" />
