@@ -185,7 +185,7 @@ search_omit: true
           <img src="images/Layer 2.svg" alt="Aspiration">
         </div>
         <div class="col-xs-4 col-sm-6 col-md-3">
-          <img src="images/Image 6.png" alt="Red Hat">
+          <img src="images/drupal-association-logo-rgb.png" alt="Drupal Association">
         </div>
         <div class="col-xs-4 col-sm-6 col-md-3">
           <img src="images/Image 7.png" alt="Facebook">
@@ -201,6 +201,9 @@ search_omit: true
         </div>
         <div class="col-xs-4 col-sm-6 col-md-3">
           <img src="images/Image 5.png" alt="Open Collective">
+        </div>
+        <div class="col-xs-4 col-sm-6 col-md-3">
+          <img src="images/Image 6.png" alt="Red Hat">
         </div>
       </div>
     </div>
