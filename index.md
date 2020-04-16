@@ -49,7 +49,7 @@ search_omit: true
   <div class="row">
     <div class="col-md-6 photo-box amplify">
       <img src="images/avataaars-2.png" class="avatar" alt="Woe is me!">
-      <p>We were relying on these events to boost publicity for my project. Without this promotion, we are struggling to get donations and publicity!</p>
+      <p>We were relying on these events to raise funds for our project. With event cancellations, we are struggling to get donations and publicity!</p>
       <a href="https://fossresponders.discourse.group/t/foss-crowdfunding-campaigns-that-need-your-help/61" role="button" class="btn btn-primary link-button">
         Amplify our project
         <img src="images/chevron-right-solid.svg" />
@@ -67,7 +67,7 @@ search_omit: true
   <div class="row justify-content-md-center">
     <div class="col-md-6 photo-box advice">
       <img src="images/avataaars (2).png" class="avatar" alt="Woe is me!">
-      <p>We were relying on these events to boost publicity for my project. Without this promotion, we are struggling to get donations and publicity!</p>
+      <p>We cancelled our in-person event. We need to run virtual events now and we are struggling to learn how to do that!</p>
       <a href="https://fossresponders.discourse.group/t/here-is-a-curated-list-of-remote-event-planning-resources/60" role="button" class="btn btn-primary link-button d-md-none">
         Get advice
         <img src="images/chevron-right-solid.svg" />
