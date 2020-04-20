@@ -214,7 +214,7 @@ search_omit: true
   <div class="row text-left justify-content-md-center" id="events">
     <div class="col-lg-5 offset-lg-1">
       <h1>Events</h1>
-      <p>On May 1st, the FOSS Responders will be hosting a virtual event to provide financial support for organizations adversely affected by COVID-19 economic tumult.</p>
+      <p>On May 22nd, the FOSS Responders will be hosting a virtual event to provide financial support for organizations adversely affected by COVID-19 economic tumult.</p>
       <p>Sponsored by Facebook, Indeed, Open Source Collective (and YOU!) <a href="https://opencollective.com/foss-responders/events/virtual-funding-event-q2-2020-4edd1e3a">the Virtual FOSS Fund Event</a> is designed to help reverse current and projected losses of conference cancellations, fundraising trajectories, and lost business opportunities that open source software organizations are experiencing all over the world.</p>
       <p>If you want to participate as a FOSS Funder, please email <a href="mailto:foss-responders@googlegroups.com">foss-responders@googlegroups.com</a>.</p>
       <a href="https://opencollective.com/foss-responders/events/virtual-funding-event-q2-2020-4edd1e3a" role="button" class="btn btn-primary join-us">View info about virtual hiring events <img src="images/eye-solid.svg" alt="Join our event!" /></a>
