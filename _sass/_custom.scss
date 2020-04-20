@@ -332,6 +332,10 @@ h1 {
     margin-top: 15px;
     a {
       padding: 0px 5px;
+       img {
+         width: 20px;
+         filter: invert(11%) sepia(98%) saturate(6046%) hue-rotate(247deg) brightness(94%) contrast(104%);
+       }
     }
   }
 }
