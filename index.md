@@ -80,7 +80,7 @@ search_omit: true
   </div>
   <div class="row justify-content-md-center">
     <div class="col-md-10 email-us">
-      <p>Have something else you need? Email us at <a href="mailto:foss-responders@googlegroups.com">foss-responders@googlegroups.com</a>.
+      <p>Have something else you need? Email us at <a href="mailto:hello@fossresponders.com">hello@fossresponders.com</a>.
       </p>
     </div>
   </div>
@@ -150,7 +150,7 @@ search_omit: true
   </div>
   <div class="row justify-content-md-center">
     <div class="col-md email-us">
-      <p>Is what you want to offer not here? Please email <a href="mailto:foss-responders@googlegroups.com">foss-responders@googlegroups.com</a>.</p>
+      <p>Is what you want to offer not here? Please email <a href="mailto:hello@fossresponders.com">hello@fossresponders.com</a>.</p>
     </div>
   </div>
   <hr style="border-color:#58B2E4;"/>
@@ -218,7 +218,7 @@ search_omit: true
 
       <p>The Virtual FOSS Responders Funding Event is designed to help support the open source community through this critical time. Conference cancellations have caused financial loss, unmet fundraising trajectories, and missed business opportunities. Now is the time to participate in the sustainability of open software organizations. Now is the time to be a part of its survival.</p>
 
-      <p>If you want to participate as a FOSS Funder organization, please email <a href="mailto:foss-responders@googlegroups.com">foss-responders@googlegroups.com</a>.</p>
+      <p>If you want to participate as a FOSS Funder organization, please email <a href="mailto:hello@fossresponders.com">hello@fossresponders.com</a>.</p>
 
       <p>If you are an organization who serves the free and open source software community and you have experienced financial losses due to COVID-19 please <a href="https://docs.google.com/forms/d/e/1FAIpQLSeo7NwDVs9O1JJ9cVZmypEiw50lEuot7gu3-dqOswr2dazUzg/viewform" target="_blank">apply for support</a>.</p>
 
@@ -264,7 +264,7 @@ search_omit: true
             <img src="images/question-circle-regular.svg" alt="Do you have questions?" />
           </a>
           <p>Have a question?<br /> -->
-          email us at <a href="mailto:foss-responders@googlegroups.com">foss-responders@googlegroups.com</a>.
+          email us at <a href="mailto:hello@fossresponders.com">hello@fossresponders.com</a>.
           </p>
         </div>
         <div class="col-md-6 section-photo">
