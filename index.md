@@ -222,7 +222,7 @@ search_omit: true
 
       <p>If you are an organization who serves the free and open source software community and you have experienced financial losses due to COVID-19 please <a href="https://docs.google.com/forms/d/e/1FAIpQLSeo7NwDVs9O1JJ9cVZmypEiw50lEuot7gu3-dqOswr2dazUzg/viewform" target="_blank">apply for support</a>.</p>
 
-      <a href="https://opencollective.com/foss-responders/events/virtual-funding-event-q2-2020-4edd1e3a" role="button" class="btn btn-primary join-us">View info about virtual hiring events <img src="images/eye-solid.svg" alt="Join our event!" /></a>
+      <a href="https://opencollective.com/foss-responders/events/virtual-funding-event-q2-2020-4edd1e3a" role="button" class="btn btn-primary join-us">Learn More<img src="images/eye-solid.svg" alt="Learn more about our event!" /></a>
     </div>
     <div class="col-lg-6 section-photo">
       <img src="images/events.svg"/>
