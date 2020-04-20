@@ -214,9 +214,14 @@ search_omit: true
   <div class="row text-left justify-content-md-center" id="events">
     <div class="col-lg-5 offset-lg-1">
       <h1>Events</h1>
-      <p>On May 22nd, the FOSS Responders will be hosting a virtual event to provide financial support for organizations adversely affected by COVID-19 economic tumult.</p>
-      <p>Sponsored by Facebook, Indeed, Open Source Collective (and YOU!) <a href="https://opencollective.com/foss-responders/events/virtual-funding-event-q2-2020-4edd1e3a">the Virtual FOSS Fund Event</a> is designed to help reverse current and projected losses of conference cancellations, fundraising trajectories, and lost business opportunities that open source software organizations are experiencing all over the world.</p>
-      <p>If you want to participate as a FOSS Funder, please email <a href="mailto:foss-responders@googlegroups.com">foss-responders@googlegroups.com</a>.</p>
+      <p>On May 22nd, join <a href="http://opensource.indeed.com/" target="_blank">Indeed</a>, the <a href="https://www.oscollective.org/" target="_blank">Open Source Collective</a>, and others as we come together at the first Virtual FOSS Responders Funding Event.</p>
+
+      <p>The Virtual FOSS Responders Funding Event is designed to help support the open source community through this critical time. Conference cancellations have caused financial loss, unmet fundraising trajectories, and missed business opportunities. Now is the time to participate in the sustainability of open software organizations. Now is the time to be a part of its survival.</p>
+
+      <p>If you want to participate as a FOSS Funder organization, please email <a href="mailto:foss-responders@googlegroups.com">foss-responders@googlegroups.com</a>.</p>
+
+      <p>If you are an organization who serves the free and open source software community and you have experienced financial losses due to COVID-19 please <a href="https://docs.google.com/forms/d/e/1FAIpQLSeo7NwDVs9O1JJ9cVZmypEiw50lEuot7gu3-dqOswr2dazUzg/viewform" target="_blank">apply for support</a>.</p>
+
       <a href="https://opencollective.com/foss-responders/events/virtual-funding-event-q2-2020-4edd1e3a" role="button" class="btn btn-primary join-us">View info about virtual hiring events <img src="images/eye-solid.svg" alt="Join our event!" /></a>
     </div>
     <div class="col-lg-6 section-photo">
