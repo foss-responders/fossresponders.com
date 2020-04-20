@@ -137,7 +137,7 @@ search_omit: true
     </div>
     <div class="col-md-6 photo-box-right cancellations">
       <img src="images/avataaars-3.png" class="avatar" alt="I know events that have been cancelled!">
-      <p>I can help with finding out what other conferences and events have been cancelled and their details. I love doing this kind of information gathering!</p>
+      <p>I can help with finding out what <a href="https://airtable.com/shrETNURgXNrGWbd8/tblc49hMMykARebo8?blocks=hide" target="_blank">other conferences and events have been cancelled</a> and their details. I love doing this kind of information gathering!</p>
       <a href="https://airtable.com/shr5QBJUPPOQUJfND" role="button" class="btn btn-primary link-button d-md-none">
         Contribute info on events
         <img src="images/chevron-right-solid.svg" />
@@ -240,6 +240,7 @@ search_omit: true
             <li class="three"><strong>FOSS Funders Event:</strong> On May 22nd, 2020, we will host a <a href="https://opencollective.com/foss-responders/events/virtual-funding-event-q2-2020-4edd1e3a">FOSS Funders event</a> to connect the needs of projects and organizations to organizations with available funds.</li>
             <li class="four"><strong>FOSS Responders Fund:</strong> We provide emergency funds to community members and projects affected by COVID-19 related event cancellations and postponements. Apply today for <a href="https://docs.google.com/forms/d/e/1FAIpQLSd74U6Q082n70xlpBiZ8m2m4pj7gIsr-hL-Scli7y0yGtK9rQ/viewform?usp=sf_link">Individuals</a> and <a href="https://docs.google.com/forms/d/e/1FAIpQLSdm1op4FcFJJFPXDxwoQDK3fGnZO6hnQEbXmJcGMlaF4ZF70Q/viewform?usp=sf_link">projects</a> emergency funds or <a href="https://opencollective.com/foss-responders/donate">donate</a> to the fund today.</li>
             <li class="five"><strong>Online Community Management Resource Center:</strong> We are aggregating the many highly valuable tips and tricks shared by industry experts in our resource center. Find or share your resources <a href="https://fossresponders.discourse.group/c/resources/8">here</a>.</li>
+            <li class="one"><strong>Cancelled Events List:</strong> We are aggregating all of the cancelled, postponed, or virtual-only conferences affected by coronavirus. Take a look at the events <a href="https://airtable.com/shrETNURgXNrGWbd8/tblc49hMMykARebo8?blocks=hide" target="_blank">here</a>.</li>
           </ul>
         </div>
         <div class="col-md-6 section-photo d-none d-md-block">
