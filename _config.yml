@@ -56,6 +56,6 @@ kramdown:
 
 mathjax: true
 
-include: [".htaccess"]
+include: [".htaccess", "_redirects"]
 # Excluding most of the usual suspects
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "gulpfile.js", "package.json", "package-lock.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor", "theme-setup"]
