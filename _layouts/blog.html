@@ -1,13 +1,15 @@
 ---
 layout: default
 ---
+<div class="blog">
+  {% if paginator.page == 1 %}
+    <div class="secondary-page-logo">
+      <img src="/images/logo-icon.jpg" alt="FOSS Responders Logo" >
+      <span class="page-title">Blog</span>
+    </div>
+  {% endif %}
 
-{% if paginator.page == 1 %}
-  <div class="logo">
-    <img src="/images/Foss-responder-hp-logo.png" alt="FOSS Responders Logo" >
+  <div class="container text-left">
+    {{ content }}
   </div>
-{% endif %}
-
-<div class="container text-left">
-  {{ content }}
 </div>

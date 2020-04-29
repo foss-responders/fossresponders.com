@@ -5,6 +5,7 @@
 $primary-font: 'Chivo', sans-serif;
 $secondary-font: 'Overpass', sans-serif;
 $black: #4F434D;
+$purple: #6F4987;
 
 .center {
   text-align: center;
@@ -73,6 +74,12 @@ url(../../images/bg-lines.png);
   }
 }
 
+.secondary-page-logo {
+  text-align: left;
+  display: flex;
+  margin: 2rem 0;
+}
+
 .tagline {
   margin: 0px auto 20px;
   font: 700 30px/39px 'Overpass', sans-serif;
@@ -116,6 +123,12 @@ h1 {
   margin: 30px auto 10px;
   color: $black;
   opacity: 1;
+}
+
+span.page-title {
+  color: $purple;
+  font: 700 61px/93px $secondary-font;
+
 }
 
 .photo-box {

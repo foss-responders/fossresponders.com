@@ -5,6 +5,15 @@
 
   h2 {
     text-align: left;
+    font-size: 1.5rem;
+    line-height: 1.75rem;
+    font-weight: bold;
+  }
+
+  h3 {
+    font-size: 1.2rem;
+    line-height: 1.4rem;
+    font-weight: bold;
   }
 
   header img {
@@ -17,16 +26,12 @@
   }
 }
 
-.posts-head {
-  display: flex;
+.posts {
+  flex-grow: 2;
+}
 
-  .posts {
-    flex-grow: 2;
-  }
-
-  .categories {
-    flex-grow: 1;
-  }
+.side-section {
+  flex-grow: 1;
 }
 
 .post-thumbnail {
@@ -34,7 +39,8 @@
   align-items: flex-start;
 
   .post-thumbnail-img {
-    max-width: 200px;
+    min-width: 180px;
+    max-width: 100%;
   }
 
   .post-thumbnail-info small {
