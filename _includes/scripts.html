@@ -1,28 +1,20 @@
 <script type="text/javascript">
   var BASE_URL = '{{ site.url }}';
+  var GA_ID = '{{ site.owner.google.analytics }}';
 </script>
+{% include cookie-consent.html %}
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="{{ site.url }}/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
 <script src="{{ site.url }}/assets/js/scripts.min.js"></script>
-{% if site.owner.google.analytics %}
-<!-- Asynchronous Google Analytics snippet -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4124866-45"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', '{{ site.owner.google.analytics }}');
-
-  $(document).ready(function(){
-    // scroll body to 0px on click
-    $('#back-to-top').click(function () {
-        $('body,html').animate({
-            scrollTop: 0
-        }, 800);
-        return false;
-    });
+$(document).ready(function(){
+  // scroll body to 0px on click
+  $('#back-to-top').click(function () {
+      $('body,html').animate({
+          scrollTop: 0
+      }, 800);
+      return false;
   });
+});
 </script>
-{% endif %}
