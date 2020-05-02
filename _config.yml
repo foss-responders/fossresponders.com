@@ -5,6 +5,7 @@ locale: en_US
 description: "Helping the Open Source ecoystem repsond to Coronavirus"
 logo: favicon.png
 wordless_logo: favicon.png
+social_logo: logo-icon.png
 search: false
 author: "Richard Littauer and Contributors"
 url: https://fossresponders.com
