@@ -18,11 +18,8 @@ var paths = {
   ],
   imgDest: 'images',
   js: [
-    'assets/js/plugins/search.js',
-    'assets/js/plugins/jquery.fitvids.js',
     'assets/js/plugins/respond.js',
     'assets/js/plugins/responsive-nav.js',
-    'assets/js/_main.js'
   ]
 }
 
