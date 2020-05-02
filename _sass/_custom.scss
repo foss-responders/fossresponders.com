@@ -340,7 +340,7 @@ h1 {
   }
 }
 
-#back-to-top {
+.bottom-banner {
   max-width: none;
   margin-top: 20px;
   p {
@@ -351,6 +351,10 @@ h1 {
   letter-spacing: 0.02px;
   img {
     transform: scale(50%) rotate(-90deg);
+  }
+  a {
+    color: white;
+    text-decoration: none;
   }
 }
 
