@@ -45,9 +45,6 @@ body {
     &.four::before {
       background-color: #FFDD57;
     }
-    &.five::before {
-      background-color: #58B2E4;
-    }
   }
 }
 
@@ -168,65 +165,30 @@ h1 {
   }
 }
 
-.emergency {
+
+.emergency-event, .crowdfunds {
   p, .link-button {
-    background-color: #ED4789;
-  }
-}
-
-
-.emergency-event {
-  p, .link-button {
-    background-color: #58B2E4;
-  }
-}
-
-.amplify {
-  p, .link-button {
-    background-color: #FFDD57;
-    color: $black;
-  }
-}
-
-.recruit {
-  p, .link-button {
-    background-color: #7BC9AC;
-    color: $black;
-  }
-}
-
-.advice {
-  p, .link-button {
-    background-color: #ED4789;
-  }
-}
-
-.crowdfunds {
-  p {
-    background-color: #58B2E4;
-  }
-  .link-button {
-    background-color: #ED4789;
-  }
-}
-.donate-time {
-  p {
-    background-color: #ED4789;
-  }
-  .link-button {
     background-color: #2292CE;
   }
 }
-.mentor {
+
+.amplify, .mentor {
   p, .link-button {
     background-color: #FFDD57;
     color: $black;
   }
 }
-.cancellations {
+
+.recruit, .cancellations {
   p, .link-button {
     background-color: #7BC9AC;
     color: $black;
+  }
+}
+
+.emergency, .advice, .donate-time {
+  p, .link-button {
+    background-color: #ED4789;
   }
 }
 
