@@ -1,3 +1,28 @@
+#banner {
+  background: #FFDD57;
+  // text-align: left;
+  font: 600 18px/22px 'Chivo';
+  letter-spacing: 0.02px;
+  color: #000000;
+  opacity: 1;
+  padding: 30px 0px 5px;
+  .link-button {
+    margin: 10px 0px;
+    font: 300 14px 'Chivo';
+    letter-spacing: 0.02px;
+    color: #FFFFFF;
+    background-color: #4F434D;
+    padding: 15px 10px 15px 50px;
+    border: none;
+    img {
+      margin-right: 5px;
+      margin-left: 30px;
+      width: 12px;
+      float: right;
+    }
+  }
+}
+
 nav.main-navigation {
     background: white;
     box-shadow: 0px 9px 6px -13px rgba(0, 0, 0, 0.75);
