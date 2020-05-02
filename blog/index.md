@@ -32,11 +32,15 @@ pagination:
               {% assign author = site.data.authors[post.author] %}{% else %}{% assign author = site.owner %}
             {% endif %}
             <div class="post-thumbnail mt-4 mb-5">
-              {% if post.image %}
+              {% if post.thumb %}
+                <img class="post-thumbnail-img" src="{{ post.thumb }}" />
+              {% elsif post.image %}
                 <img class="post-thumbnail-img" src="{{ post.image }}" />
               {% endif %}
               <div class="post-thumbnail-info mx-5">
-                <h3>{{ post.title }}</h3>
+                <a href="{{ post.url | relative_url }}">
+                  <h3>{{ post.title }}</h3>
+                </a>
                 <small>
                   Posted on <time datetime="{{ post.date | date_to_xmlschema }}">
                   {{ post.date | date: '%B %d, %Y' }}</time> by {{ author.name }}
@@ -56,14 +60,13 @@ pagination:
           <h2>Categories</h2>
           {% for category in site.categories %}
             {% assign category_name = site.data.categories[category.first].name %}
-            <a href="/category/{{ category.first }}">{{ category_name }}</a>
+            <li><a href="/category/{{ category.first }}">{{ category_name }}</a></li>
           {% endfor %}
         </section>
         <section class="side-section">
           <h2>Authors</h2>
-          {% for author in site.data.authors %}
-            {% assign author_name = site.data.authors[author.first].name %}
-            <a href="/author/{{ author.first }}">{{ author_name }}</a>
+          {% for author in site.authors %}
+            <li><a href="{{ author.url }}">{{ author.name }}</a></li>
           {% endfor %}
         </section>
       </div>
@@ -71,6 +74,9 @@ pagination:
     <hr />
     <div class="row">
       {% for post in paginator.posts %}
+        {% if forloop.index <= 2 %}
+          {% continue %}
+        {% endif %}
         <div class="col-md-4">
           <div class="post-thumbnail flex-column my-4">
             {% if post.image %}

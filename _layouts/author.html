@@ -23,12 +23,13 @@ layout: default
     </section>
     {% endif %}
     <main class="mt-5">
-      <h1>{{ site.data.categories[page.autopages.display_name].name }}</h1>
+      <h1>{{ page.name }}</h1>
       <div class="row">
         <div class="col-md-12">
           <section class="posts">
             <h2>Latest</h2>
-            {% for post in paginator.posts %}
+            {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
+            {% for post in filtered_posts %}
               {% if forloop.index > 2 %}
                 {% break %}
               {% endif %}

@@ -58,6 +58,10 @@ kramdown:
 
 mathjax: true
 
+collections:
+  authors:
+    output: true
+
 pagination:
   enabled: true
   per_page: 10
