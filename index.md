@@ -95,7 +95,7 @@ search_omit: true
     <div class="col-md-10">
       <p>Now is time to give back to the projects we depend on.<br />This is how we future-proof our open source infrastructure and help millions who built the software we benefit from.</p>
       <p>Donate to the FOSS Responders Open Collective and your funds will be used to help individuals and projects who might otherwise fall through the cracks.<br class="d-none d-lg-block"/> Open Collective waived their fees so 100% directly support those in need.</p>
-      <a href="https://opencollective.com/foss-responders" target="_blank" title="Donate to our Open Collective!">
+      <a href="https://opencollective.com/foss-responders" target="_blank" title="Donate to our Open Collective!" rel="noopener noreferrer">
         <img class="oc-image" src="images/Image 1.png" alt="Donate to Open Collective" />
       </a>
     </div>
@@ -137,7 +137,7 @@ search_omit: true
     </div>
     <div class="col-md-6 photo-box-right cancellations">
       <img src="images/avataaars-3.png" class="avatar" alt="I know events that have been cancelled!">
-      <p>I can help with finding out what <a href="https://airtable.com/shrETNURgXNrGWbd8/tblc49hMMykARebo8?blocks=hide" target="_blank">other conferences and events have been cancelled</a> and their details. I love doing this kind of information gathering!</p>
+      <p>I can help with finding out what <a href="https://airtable.com/shrETNURgXNrGWbd8/tblc49hMMykARebo8?blocks=hide" target="_blank" rel="noopener noreferrer">other conferences and events have been cancelled</a> and their details. I love doing this kind of information gathering!</p>
       <a href="https://airtable.com/shr5QBJUPPOQUJfND" role="button" class="btn btn-primary link-button d-md-none">
         Contribute info on events
         <img src="images/chevron-right-solid.svg" />
@@ -214,13 +214,13 @@ search_omit: true
   <div class="row text-left justify-content-md-center" id="events">
     <div class="col-lg-5 offset-lg-1">
       <h1>Events</h1>
-      <p>On May 22nd, join <a href="http://opensource.indeed.com/" target="_blank">Indeed</a>, the <a href="https://www.oscollective.org/" target="_blank">Open Source Collective</a>, and others as we come together at the first Virtual FOSS Responders Funding Event.</p>
+      <p>On May 22nd, join <a href="http://opensource.indeed.com/" target="_blank" rel="noopener noreferrer">Indeed</a>, the <a href="https://www.oscollective.org/" target="_blank" rel="noopener noreferrer">Open Source Collective</a>, and others as we come together at the first Virtual FOSS Responders Funding Event.</p>
 
       <p>The Virtual FOSS Responders Funding Event is designed to help support the open source community through this critical time. Conference cancellations have caused financial loss, unmet fundraising trajectories, and missed business opportunities. Now is the time to participate in the sustainability of open software organizations. Now is the time to be a part of its survival.</p>
 
       <p>If you want to participate as a FOSS Funder organization, please email <a href="mailto:hello@fossresponders.com">hello@fossresponders.com</a>.</p>
 
-      <p>If you are an organization who serves the free and open source software community and you have experienced financial losses due to COVID-19 please <a href="https://docs.google.com/forms/d/e/1FAIpQLSeo7NwDVs9O1JJ9cVZmypEiw50lEuot7gu3-dqOswr2dazUzg/viewform" target="_blank">apply for support</a>.</p>
+      <p>If you are an organization who serves the free and open source software community and you have experienced financial losses due to COVID-19 please <a href="https://docs.google.com/forms/d/e/1FAIpQLSeo7NwDVs9O1JJ9cVZmypEiw50lEuot7gu3-dqOswr2dazUzg/viewform" target="_blank" rel="noopener noreferrer">apply for support</a>.</p>
 
       <a href="https://opencollective.com/foss-responders/events/virtual-funding-event-q2-2020-4edd1e3a" role="button" class="btn btn-primary join-us">Learn More<img src="images/eye-solid.svg" alt="Learn more about our event!" /></a>
     </div>
@@ -240,7 +240,7 @@ search_omit: true
             <li class="three"><strong>FOSS Funders Event:</strong> On May 22nd, 2020, we will host a <a href="https://opencollective.com/foss-responders/events/virtual-funding-event-q2-2020-4edd1e3a">FOSS Funders event</a> to connect the needs of projects and organizations to organizations with available funds.</li>
             <li class="four"><strong>FOSS Responders Fund:</strong> We provide emergency funds to community members and projects affected by COVID-19 related event cancellations and postponements. Apply today for <a href="https://docs.google.com/forms/d/e/1FAIpQLSd74U6Q082n70xlpBiZ8m2m4pj7gIsr-hL-Scli7y0yGtK9rQ/viewform?usp=sf_link">Individuals</a> and <a href="https://docs.google.com/forms/d/e/1FAIpQLSdm1op4FcFJJFPXDxwoQDK3fGnZO6hnQEbXmJcGMlaF4ZF70Q/viewform?usp=sf_link">projects</a> emergency funds or <a href="https://opencollective.com/foss-responders/donate">donate</a> to the fund today.</li>
             <li class="five"><strong>Online Community Management Resource Center:</strong> We are aggregating the many highly valuable tips and tricks shared by industry experts in our resource center. Find or share your resources <a href="https://fossresponders.discourse.group/c/resources/8">here</a>.</li>
-            <li class="one"><strong>Cancelled Events List:</strong> We are contributing to a database of all of the cancelled, postponed, or virtual-only conferences affected by COVID-19. Take a look at the events <a href="https://airtable.com/shrETNURgXNrGWbd8/tblc49hMMykARebo8?blocks=hide" target="_blank">here</a>.</li>
+            <li class="one"><strong>Cancelled Events List:</strong> We are contributing to a database of all of the cancelled, postponed, or virtual-only conferences affected by COVID-19. Take a look at the events <a href="https://airtable.com/shrETNURgXNrGWbd8/tblc49hMMykARebo8?blocks=hide" target="_blank" rel="noopener noreferrer">here</a>.</li>
           </ul>
         </div>
         <div class="col-md-6 section-photo d-none d-md-block">
