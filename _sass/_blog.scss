@@ -3,6 +3,10 @@
   margin: 60px auto 20px auto;
   border-top-width: 0;
 
+  a {
+    text-decoration: none;
+  }
+
   h2 {
     text-align: left;
     font-size: 1.5rem;
@@ -13,6 +17,11 @@
   h3 {
     font-size: 1.2rem;
     line-height: 1.4rem;
+    font-weight: bold;
+  }
+
+  h5 {
+    font-size: 1rem;
     font-weight: bold;
   }
 
@@ -27,6 +36,7 @@
 
   .side-section li {
     list-style: none;
+    line-height: 1.75rem;
   }
 }
 
@@ -68,12 +78,35 @@
   }
 }
 
+a {
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-weight: bold;
+}
+
+#breadcrumbs {
+  padding-left: 15px;
+  text-align: left;
+  margin-bottom: 2rem;
+  color: #2A27F4;
+}
+
 .entry {
   text-align: left;
-  padding: 0 4rem;
 
   article {
-    width: 80%;
+    width: 75%;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+  .social-icons {
+    margin-left: auto;
+    a {
+      text-decoration: none;
+    }
   }
 
   .entry-title {
@@ -91,7 +124,6 @@
   
     .entry-date {
       color: rgba(0, 0, 0, 0.4);
-      margin: 0 1.75rem;
     }
   }
 
@@ -99,5 +131,24 @@
     font-family: 'Overpass';
     font-size: 1rem;
     line-height: 1.5rem;
+
+    .entry-img {
+      width: 100%;
+    }
+  }
+}
+
+
+@media (max-width: 768px) {
+  .blog {
+    width: 100%;
+  }
+
+  .post-thumbnail {
+    display: block;
+  }
+
+  .entry article {
+    width: 100%;
   }
 }

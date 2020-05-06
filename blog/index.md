@@ -1,5 +1,6 @@
 ---
 layout: blog
+title: "Blog"
 pagination:
   enabled: true
 ---
@@ -37,7 +38,7 @@ pagination:
               {% elsif post.image %}
                 <img class="post-thumbnail-img" src="{{ post.image }}" />
               {% endif %}
-              <div class="post-thumbnail-info mx-5">
+              <div class="post-thumbnail-info mx-sm-5">
                 <a href="{{ post.url | relative_url }}">
                   <h3>{{ post.title }}</h3>
                 </a>
@@ -46,7 +47,7 @@ pagination:
                   {{ post.date | date: '%B %d, %Y' }}</time> by {{ author.name }}
                 </small>
                 {% if post.excerpt %}
-                  <p class="excerpt">
+                  <p class="excerpt mt-3">
                     {{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}
                   </p>
                 {% endif %}
@@ -57,14 +58,14 @@ pagination:
       </div>
       <div class="col-md-4">
         <section class="side-section mb-5">
-          <h2>Categories</h2>
+          <h2 class="mb-3">Categories</h2>
           {% for category in site.categories %}
             {% assign category_name = site.data.categories[category.first].name %}
-            <li><a href="/category/{{ category.first }}">{{ category_name }}</a></li>
+            <li><a href="{{ category.first }}">{{ category_name }}</a></li>
           {% endfor %}
         </section>
         <section class="side-section">
-          <h2>Authors</h2>
+          <h2 class="mb-3">Authors</h2>
           {% for author in site.authors %}
             <li><a href="{{ author.url }}">{{ author.name }}</a></li>
           {% endfor %}

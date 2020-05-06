@@ -35,7 +35,7 @@ owner:
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   /blog/:categories/:title/
 markdown:    kramdown
 highlighter: rouge
 sass:
@@ -77,8 +77,8 @@ autopages:
   categories: 
     layouts: 
       - 'category.html'
-    title: 'Posts in category :cat'
-    permalink: '/category/:cat'
+    title: 'Posts in :cat'
+    permalink: '/blog/:cat'
     enabled: true
 
 include: [".htaccess", "_redirects"]

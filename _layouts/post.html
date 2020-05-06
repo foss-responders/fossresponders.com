@@ -1,11 +1,12 @@
 ---
 layout: default
 ---
-<div id="main" class="entry" role="main">
+<div id="main" class="entry container" role="main">
   <div class="secondary-page-logo">
     <img src="/images/logo-icon.jpg" alt="FOSS Responders Logo" >
     <span class="page-title">Blog</span>
   </div>
+  {% include breadcrumbs.html %}
   <article>
     <div class="entry-wrapper">
       <div class="entry-header">
@@ -15,38 +16,85 @@ layout: default
           <h1 class="entry-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
         {% endif %}
       </div>
-      <div class="entry-meta mb-2">
+      <div class="entry-meta d-md-flex mb-2">
         {% if page.author %}
           {% assign author = site.authors | where: 'short_name', page.author | first %}{% else %}{% assign author = site.owner %}
         {% endif %}
-        <span class="author vcard">
+        <p class="author vcard">
             <a href="{{ author.url }}">{{ author.name }}</a>
-        </span>
-        <span class="entry-date date published">
+        </p>
+        <p class="entry-date mx-md-4 date published">
           <time datetime="{{ page.date | date_to_xmlschema }}">
             {{ page.date | date: "%B %d, %Y" }}
           </time>
-        </span>
+        </p>
+        <div class="social-icons">
+          {% if author.twitter %}
+            <a href="https://twitter.com/{{ author.twitter }}" title="Author Twitter Link" target="_blank" rel="noopener noreferrer">
+              <img src="{{ site.url }}/images/author_social/twitter.svg" />
+            </a>
+          {% endif %}
+          {% if author.facebook %}
+            <a href="https://facebook.com/{{ author.facebook }}" title="Author Facebook Link" target="_blank" rel="noopener noreferrer">
+              <img src="{{ site.url }}/images/author_social/fb.svg" />
+            </a>
+          {% endif %}
+          {% if author.linkedin %}
+            <a href="{{ author.linkedin }}" title="Author Linkedin Link" target="_blank" rel="noopener noreferrer">
+              <img src="{{ site.url }}/images/author_social/linkedin.svg" />
+            </a>
+          {% endif %}
+          {% if author.reddit %}
+            <a href="{{ author.reddit }}" title="Author Reddit Link" target="_blank" rel="noopener noreferrer">
+              <img src="{{ site.url }}/images/author_social/reddit.svg" />
+            </a>
+          {% endif %}
+          {% if author.email %}
+            <a href="mailto:{{ author.email }}" title="Author Email Link" target="_blank" rel="noopener noreferrer">
+              <img src="{{ site.url }}/images/author_social/email.svg" />
+            </a>
+          {% endif %}
+        </div>
       </div>
-      <div class="entry-content">
+      <div class="entry-content my-5">
         {% if page.image %}
-          <img class="entry-img my-5" src="{{ page.image }}" />
+          <img class="entry-img mb-5" src="{{ page.image }}" />
         {% endif %}
         {{ content }}
-        {% if site.owner.disqus-shortname and page.comments or site.comments %}
-          <div id="disqus_thread"></div><!-- /#disqus_thread -->
-          {% include disqus-comments.html %}
-        {% endif %}
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
+    <hr style="border-color: #FFDD57;" />
+    <div class="entry-attributions mb-5 d-md-flex justify-content-between">
+      {% if page.attribution %}
+        <a href="{{ page.attribution_url }}">Cross-posted on {{ page.attribution }}</a>
+      {% endif %}
+      <div class="social-icons">
+        {% if author.twitter %}
+          <a href="https://twitter.com/{{ author.twitter }}" title="Author Twitter Link" target="_blank" rel="noopener noreferrer">
+            <img src="{{ site.url }}/images/author_social/twitter.svg" />
+          </a>
+        {% endif %}
+        {% if author.facebook %}
+          <a href="https://facebook.com/{{ author.facebook }}" title="Author Facebook Link" target="_blank" rel="noopener noreferrer">
+            <img src="{{ site.url }}/images/author_social/fb.svg" />
+          </a>
+        {% endif %}
+        {% if author.linkedin %}
+          <a href="{{ author.linkedin }}" title="Author Linkedin Link" target="_blank" rel="noopener noreferrer">
+            <img src="{{ site.url }}/images/author_social/linkedin.svg" />
+          </a>
+        {% endif %}
+        {% if author.reddit %}
+          <a href="{{ author.reddit }}" title="Author Reddit Link" target="_blank" rel="noopener noreferrer">
+            <img src="{{ site.url }}/images/author_social/reddit.svg" />
+          </a>
+        {% endif %}
+        {% if author.email %}
+          <a href="mailto:{{ author.email }}" title="Author Email Link" target="_blank" rel="noopener noreferrer">
+            <img src="{{ site.url }}/images/author_social/email.svg" />
+          </a>
+        {% endif %}
+      </div>
   </article>
-  <hr />
-  <nav class="pagination" role="navigation">
-    {% if page.previous %}
-      <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous post</a>
-    {% endif %}
-    {% if page.next %}
-      <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next post</a>
-    {% endif %}
-  </nav><!-- /.pagination -->
+  <hr style="border-color: #FF62A0;" />
 </div><!-- /#main -->
