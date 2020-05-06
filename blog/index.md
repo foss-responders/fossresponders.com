@@ -30,7 +30,7 @@ pagination:
               {% break %}
             {% endif %}
             {% if post.author %}
-              {% assign author = site.data.authors[post.author] %}{% else %}{% assign author = site.owner %}
+              {% assign author = site.authors | where: 'short_name', post.author | first %}{% else %}{% assign author = site.owner %}
             {% endif %}
             <div class="post-thumbnail mt-4 mb-5">
               {% if post.thumb %}
