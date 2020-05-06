@@ -70,32 +70,22 @@ layout: default
       {% if page.attribution %}
         <a href="{{ page.attribution_url }}">Cross-posted on {{ page.attribution }}</a>
       {% endif %}
-      <div class="social-icons">
-        {% if author.twitter %}
-          <a href="https://twitter.com/{{ author.twitter }}" title="Author Twitter Link" target="_blank" rel="noopener noreferrer">
-            <img src="{{ site.url }}/images/author_social/twitter.svg" />
-          </a>
-        {% endif %}
-        {% if author.facebook %}
-          <a href="https://facebook.com/{{ author.facebook }}" title="Author Facebook Link" target="_blank" rel="noopener noreferrer">
-            <img src="{{ site.url }}/images/author_social/fb.svg" />
-          </a>
-        {% endif %}
-        {% if author.linkedin %}
-          <a href="{{ author.linkedin }}" title="Author Linkedin Link" target="_blank" rel="noopener noreferrer">
-            <img src="{{ site.url }}/images/author_social/linkedin.svg" />
-          </a>
-        {% endif %}
-        {% if author.reddit %}
-          <a href="{{ author.reddit }}" title="Author Reddit Link" target="_blank" rel="noopener noreferrer">
-            <img src="{{ site.url }}/images/author_social/reddit.svg" />
-          </a>
-        {% endif %}
-        {% if author.email %}
-          <a href="mailto:{{ author.email }}" title="Author Email Link" target="_blank" rel="noopener noreferrer">
-            <img src="{{ site.url }}/images/author_social/email.svg" />
-          </a>
-        {% endif %}
+      <div class="social-icons share">
+        <a href="http://twitter.com/share?url={{ site.url }}{{ page.url }}" title="Share post in twitter" target="_blank" rel="noopener noreferrer">
+          <img src="{{ site.url }}/images/author_social/twitter.svg" />
+        </a>
+        <a href="http://www.facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share post in facebook" target="_blank" rel="noopener noreferrer">
+          <img src="{{ site.url }}/images/author_social/fb.svg" />
+        </a>
+        <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}" title="Share post in linkedin" target="_blank" rel="noopener noreferrer">
+          <img src="{{ site.url }}/images/author_social/linkedin.svg" />
+        </a>
+        <a href="http://reddit.com/submit?url={{ site.url }}{{ page.url }}&title={{ page.title }}" title="Share post in reddit" target="_blank" rel="noopener noreferrer">
+          <img src="{{ site.url }}/images/author_social/reddit.svg" />
+        </a>
+        <a href="mailto:?subject={{ page.title }}&body=Check%20out%20this%20post%20in:{{ site.url }}{{ page.url }}" title="Send post as email" target="_blank" rel="noopener noreferrer">
+          <img src="{{ site.url }}/images/author_social/email.svg" />
+        </a>
       </div>
   </article>
   <hr style="border-color: #FF62A0;" />

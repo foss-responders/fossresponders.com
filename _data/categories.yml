@@ -2,5 +2,7 @@ cancelled_conference:
   name: Cancelled Conferences
 angel_donors:
   name: Angel Donors
+events:
+  name: Events
 activity:
   name: FOSS Responders Activity
