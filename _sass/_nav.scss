@@ -42,9 +42,9 @@ nav.main-navigation {
     margin-top: 15px;
     animation: FadeIn 1s cubic-bezier(0.65, 0.05, 0.36, 1);
     animation-fill-mode: both;
-    @for $i from 1 through 5 {
+    @for $i from 1 through 6 {
       &:nth-child(#{$i}) {
-        animation-delay: $i * .3s;
+        animation-delay: $i * .2s;
       }
     }
   }
