@@ -68,7 +68,9 @@ layout: default
     <hr style="border-color: #FFDD57;" />
     <div class="entry-attributions mb-5 d-md-flex justify-content-between">
       {% if page.attribution %}
-        <a href="{{ page.attribution_url }}">Cross-posted on {{ page.attribution }}</a>
+        <p>
+          <a href="{{ page.attribution_url }}">Cross-posted on {{ page.attribution }}</a>
+        </p>
       {% endif %}
       <div class="social-icons share">
         <a href="http://twitter.com/share?url={{ site.url }}{{ page.url }}" title="Share post in twitter" target="_blank" rel="noopener noreferrer">
