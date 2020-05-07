@@ -1,5 +1,6 @@
 ---
 layout: page
+pagename: privacy
 title: Privacy Policy
 excerpt: "Our Privacy Policy"
 ---
