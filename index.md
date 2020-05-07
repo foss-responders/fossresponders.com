@@ -177,7 +177,7 @@ search_omit: true
   <div class="row justify-content-md-center attributions">
     <div class="col-lg-10">
       <p class="center">This working group is made up of individuals and organizations including:</p>
-      <p class="center">Duane O’Brien, Megan Byrd-Sanicki, Richard Littauer, Nuritzi Sanchez, Tony Urso, Alyssa Wright, Rachel Lawson, Allen Gunn, Eriol Fox , Devon Zuegel, Jacob Redding, Ruth Suehle, Michael Cheng, Damon Gregory, Scott Moore, Shirley Bailes, Jocelyn Matthews…and more!</p>
+      <p class="center">Duane O’Brien, Megan Byrd-Sanicki, Richard Littauer, Nuritzi Sanchez, Tony Urso, Alyssa Wright, Rachel Lawson, Allen Gunn, Eriol Fox , Devon Zuegel, Jacob Redding, Ruth Suehle, Michael Cheng, Damon Gregory, Scott Moore, Shirley Bailes, Jocelyn Matthews, Saptak Sengupta…and more!</p>
     </div>
   </div>
   <div class="row justify-content-md-center" id="logos">
