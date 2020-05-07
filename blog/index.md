@@ -38,7 +38,7 @@ pagination:
               {% elsif post.image %}
                 <img class="post-thumbnail-img" src="{{ post.image }}" />
               {% endif %}
-              <div class="post-thumbnail-info mx-sm-5">
+              <div class="post-thumbnail-info mx-lg-5">
                 <a href="{{ post.url | relative_url }}">
                   <h3>{{ post.title }}</h3>
                 </a>
