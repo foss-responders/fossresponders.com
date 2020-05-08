@@ -189,6 +189,11 @@ search_omit: true
           </a>
         </div>
         <div class="col-xs-4 col-sm-6 col-md-3">
+          <a href="https://codefund.io/" target="_blank">
+            <img src="images/CodeFund-Logo-Horizontal-color-attachment.png" alt="CodeFund">
+          </a>
+        </div>
+        <div class="col-xs-4 col-sm-6 col-md-3">
            <a href="https://www.drupal.org/association" target="_blank">
             <img src="images/drupal-association-logo-rgb.png" alt="Drupal Association">
           </a>
@@ -196,6 +201,11 @@ search_omit: true
         <div class="col-xs-4 col-sm-6 col-md-3">
            <a href="https://www.facebook.com/covidsupport" target="_blank">
           <img src="images/Image 7.png" alt="Facebook">
+          </a>
+        </div>
+        <div class="col-xs-4 col-sm-6 col-md-3">
+         <a href="https://gitcoin.co/" target="_blank">
+          <img src="images/Gitcoin_Logo.png" alt="GitCoin">
           </a>
         </div>
         <div class="col-xs-4 col-sm-6 col-md-3">
