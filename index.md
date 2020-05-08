@@ -199,7 +199,7 @@ search_omit: true
           </a>
         </div>
         <div class="col-xs-4 col-sm-6 col-md-3">
-         <a href="https://www.gitlab.com" target="_blank">
+         <a href="https://about.gitlab.com/" target="_blank">
           <img src="images/Image 3.png" alt="GitLab">
           </a>
         </div>
