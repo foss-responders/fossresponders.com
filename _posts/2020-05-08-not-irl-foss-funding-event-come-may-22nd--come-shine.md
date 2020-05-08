@@ -5,8 +5,8 @@ author: "alyssa"
 category: events
 thumb: /images/piggybank.jpg
 image: /images/piggybank.jpg
-attribution: Open Source Collective
-attirbution_url: google.com
+attribution: Open Collective Blog
+attirbution_url: https://blog.opencollective.com/foss-funding-event/
 date: 2020-05-08-11-46
 ---
 
