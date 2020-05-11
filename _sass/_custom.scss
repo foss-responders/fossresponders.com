@@ -342,3 +342,47 @@ span.page-title {
     margin: 30px 0px;
   }
 }
+
+.line {
+  height: 4px;
+
+  /*  Gives bit more control over the dashed line  */
+  border: 0;
+  background-image: linear-gradient(to right, transparent 50%, #AEDFCB 50%);
+  background-size: 40px 80%;
+
+  position: relative;
+  overflow: visible; /* As the circles are larger than the line */
+  margin: 16px;
+  display: flex;
+  align-items: center; /* these two lines center all the children on the verticle axis */
+  &::before, &::after {
+    content: "";
+    width: 25px;
+    height: 25px;
+    border-radius: 50px;
+    background: #68c19b;
+    z-index: 1;
+    position: absolute;
+    opacity: 50%;
+    box-shadow: inset 0px 0px 0px 6px #AEDFCB; /* addings the inner circle */
+  }
+  &::before {
+    left: -25px;
+  }
+  &::after {
+    right: -25px;
+  }
+  // Seems an easy way to do this, but it sounds wrong.
+  // TODO Is there a way to pass class information into a Sass function?
+  &.FFDD57 {
+    background-image: linear-gradient(to right, transparent 50%, #FFDD57 50%);
+    &::before, &::after {
+      background: white; /* What should this be? */
+      box-shadow:  inset 0px 0px 0px 6px #FFDD57;
+    }
+  }
+}
+
+
+

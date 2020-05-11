@@ -84,7 +84,7 @@ search_omit: true
       </p>
     </div>
   </div>
-  <hr style="border-color:#FFDD57;"/>
+  <div class="line FFDD57"></div>
   <div class="row justify-content-md-center" id="offer-help">
     <div class="col-md">
       <h1>Offer help!</h1>
