@@ -233,6 +233,11 @@ search_omit: true
           <img src="images/Image 6.png" alt="Red Hat">
          </a>
         </div>
+        <div class="col-xs-4 col-sm-6 col-md-3">
+        <a href="https://storj.io/" target="_blank">
+          <img src="images/storj-hero-logo-1.svg" alt="Storj">
+         </a>
+        </div>
       </div>
     </div>
   </div>
