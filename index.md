@@ -229,6 +229,11 @@ search_omit: true
           </a>
         </div>
         <div class="col-xs-4 col-sm-6 col-md-3">
+        <a href="https://www.oscollective.org/" target="_blank">
+          <img src="images/osc.png" alt="Open Source Collective">
+          </a>
+        </div>
+        <div class="col-xs-4 col-sm-6 col-md-3">
         <a href="https://redhat.com/" target="_blank">
           <img src="images/Image 6.png" alt="Red Hat">
          </a>
