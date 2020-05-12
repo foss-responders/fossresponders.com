@@ -1,0 +1,71 @@
+---
+layout: default
+---
+
+{% include navigation.html %}
+<div id="main" role="main" class="about-page">
+  <header class="about-header">
+    <h1 class="about-title">
+      {% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}
+    </h1>
+    <div class="about-subtext">
+      <div class="container">
+        <div class="text-left">
+          {{ content }}
+        </div>
+      </div>
+    </div><!-- /.entry-content -->
+  </header>
+  <div class="about-wrapper container">
+    {% assign featured_members = page.members | where_exp: "member", "member.featured" %}
+    {% assign members = page.members | where_exp: "member", "member.featured != true" %}
+    {% for member in featured_members %}
+      <div class="featured-member d-md-flex justify-content-md-between">
+        <div class="member-description">
+          <h1>{{ member.fullname }}</h1>
+          <p>
+            {{ member.position }}
+            at
+            <a href="">{{ member.affiliation }}</a>
+          </p>
+          <p><b>FOSS Responders committees:</b><br/>
+            {{ member.committees | join: ", " }}.</p>
+          <p>{{ member.excerpt }}</p>
+          <p>
+            <a href="">{{ member.twitter }}</a><br/>
+            <a href="">{{ member.github }}</a><br/>
+            <a href="">{{ member.linkedin }}</a>
+          </p>
+        </div>
+        <div class="member-avatar">
+          <img src="{{ site.url }}{{ member.avatar }}" alt="Avatar of {{ member.fullname }}" />
+        </div>
+      </div>
+    {% endfor %}
+    <div class="member-container row mt-5 justify-content-md-between">
+    {% for member in members %}
+      <div class="col-md-6 member d-md-flex justify-content-md-between">
+        <div class="member-description">
+          <h1>{{ member.fullname }}</h1>
+          <p>
+            {{ member.position }}
+            at
+            <a href="">{{ member.affiliation }}</a>
+          </p>
+          <p><b>FOSS Responders committees:</b><br/>
+            {{ member.committees | join: ", " }}.</p>
+          <p>{{ member.excerpt }}</p>
+          <p>
+            <a href="">{{ member.twitter }}</a><br/>
+            <a href="">{{ member.github }}</a><br/>
+            <a href="">{{ member.linkedin }}</a>
+          </p>
+        </div>
+        <div class="member-avatar">
+          <img src="{{ site.url }}{{ member.avatar }}" alt="Avatar of {{ member.fullname }}" />
+        </div>
+      </div>
+    {% endfor %}
+    </div>
+  </div>
+</div>

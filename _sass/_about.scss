@@ -1,0 +1,29 @@
+.about-header {
+  .about-title {
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 10px;
+  }
+}
+
+.about-wrapper {
+  a {
+    text-decoration: none;
+  }
+  .member-description {
+    text-align: left;
+    max-width: 50%;
+  }
+
+  .member-container {
+    .member {
+      max-width: 47%;
+    }
+    .member-avatar {
+      max-width: 50%;
+      img {
+        max-width: 100%;
+      }
+    }
+  }
+}
