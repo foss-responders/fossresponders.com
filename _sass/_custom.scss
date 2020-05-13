@@ -237,17 +237,22 @@ span.page-title {
   max-width: 100%;
 }
 
+
 // Two buttons
 .join-us {
   background-color: #FFDD57;
   color: $black;
-  border: none;
-  padding: 15px 25px 15px 50px;
+  border: 2px solid transparent;
+  padding: 13px 25px 13px 50px;
   font: 300 18px/22px Chivo;
   letter-spacing: 0.02px;
-  img {
-    padding-left:10px;
+  .join{
+    @include mission-learn($fa-var-users);
   }
+  .learn-more{
+    @include mission-learn($fa-var-eye)
+  }
+
 }
 
 .faqs {
@@ -365,25 +370,24 @@ span.page-title {
 }
 
 
-@mixin hover($colour) {
-  border: 2px solid $colour;
-  background-color: #FFFFFF;
-  color: $colour;
-}
+
 
 .pink-button:hover{
-  @include hover($pink);
+  @include hover($pink, $pink, #FFFFFF);
 }
 
 .blue-button:hover{
-  @include hover($blue);
+  @include hover($blue, $blue, #FFFFFF);
 }
 
 .yellow-button:hover{
-  @include hover($yellow);
+  @include hover($yellow, $yellow, #FFFFFF);
 }
 
 .green-button:hover{
-  @include hover($green);
+  @include hover($green, $green, #FFFFFF);
 }
 
+#banner .banner-button:hover{
+  @include hover($black, $black,$yellow);
+}
