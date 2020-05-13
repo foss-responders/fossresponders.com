@@ -1,11 +1,20 @@
 // Fonts
 @import url(https://fonts.googleapis.com/css?family=Chivo:300,700,900|Overpass:300,700,900&display=swap);
+@import "fontawesome/scss/fontawesome.scss";
+@import "fontawesome/scss/solid.scss";
+@import "fontawesome/scss/brands.scss";
 
 // Variables
 $primary-font: 'Chivo', sans-serif;
 $secondary-font: 'Overpass', sans-serif;
 $black: #4F434D;
 $purple: #6F4987;
+$fa-font-path: "fontawesome/webfonts";
+
+$blue : #2292CE;
+$pink : #ED4789;
+$green : #7BC9AC;
+$yellow : #FFDD57;
 
 .center {
   text-align: center;
@@ -154,8 +163,20 @@ span.page-title {
     letter-spacing: 0.02px;
     color: #FFFFFF;
     padding: 20px 10px 10px 10px;
-    border: none;
+    border: 2px solid transparent;
     float: right;
+    span{
+      @extend %fa-icon;
+      @extend .fas;
+
+      &:before{
+        content: fa-content($fa-var-chevron-right);
+      }
+      float: right;
+      margin-top: -5px;
+      margin-right: 5px;
+      font-size: 34px;
+    }
     img {
       margin-top: -5px;
       margin-right: 5px;
@@ -342,3 +363,27 @@ span.page-title {
     margin: 30px 0px;
   }
 }
+
+
+@mixin hover($colour) {
+  border: 2px solid $colour;
+  background-color: #FFFFFF;
+  color: $colour;
+}
+
+.pink-button:hover{
+  @include hover($pink);
+}
+
+.blue-button:hover{
+  @include hover($blue);
+}
+
+.yellow-button:hover{
+  @include hover($yellow);
+}
+
+.green-button:hover{
+  @include hover($green);
+}
+
