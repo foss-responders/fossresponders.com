@@ -1,0 +1,14 @@
+@mixin mission-learn($icon) {
+    @extend %fa-icon;
+      @extend .fas;
+  
+      &:before{
+        content: fa-content($icon);
+      }
+      padding-left:10px;
+  }
+  @mixin hover($border-color, $color, $background-color) {
+    border: 2px solid $border-color;
+    background-color: $background-color;
+    color: $color;
+  }  
