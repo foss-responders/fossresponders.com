@@ -184,64 +184,69 @@ search_omit: true
     <div class="col-lg-10">
       <div class="row justify-content-md-center">
         <div class="col-xs-4 col-sm-6 col-md-2">
-          <a href="https://aspiration.com" target="_blank">
-          <img src="images/Layer 2.svg" alt="Aspiration">
+          <a href="https://aspiration.com" target="_blank" rel="noopener noreferrer">
+            <img src="images/Layer 2.svg" alt="Aspiration">
           </a>
         </div>
         <div class="col-xs-4 col-sm-6 col-md-3">
-          <a href="https://codefund.io/" target="_blank">
+          <a href="https://codefund.io/" target="_blank" rel="noopener noreferrer">
             <img src="images/CodeFund-Logo-Horizontal-color-attachment.png" alt="CodeFund">
           </a>
         </div>
         <div class="col-xs-4 col-sm-6 col-md-3">
-           <a href="https://www.drupal.org/association" target="_blank">
+          <a href="https://www.drupal.org/association" target="_blank" rel="noopener noreferrer">
             <img src="images/drupal-association-logo-rgb.png" alt="Drupal Association">
           </a>
         </div>
         <div class="col-xs-4 col-sm-6 col-md-3">
-           <a href="https://www.facebook.com/covidsupport" target="_blank">
-          <img src="images/Image 7.png" alt="Facebook">
+          <a href="https://www.facebook.com/covidsupport" target="_blank" rel="noopener noreferrer">
+            <img src="images/Image 7.png" alt="Facebook">
           </a>
         </div>
         <div class="col-xs-4 col-sm-6 col-md-3">
-         <a href="https://gitcoin.co/" target="_blank">
-          <img src="images/Gitcoin_Logo.png" alt="GitCoin">
+          <a href="https://gitcoin.co/" target="_blank" rel="noopener noreferrer">
+            <img src="images/Gitcoin_Logo.png" alt="GitCoin">
           </a>
         </div>
         <div class="col-xs-4 col-sm-6 col-md-3">
-         <a href="https://about.gitlab.com/" target="_blank">
-          <img src="images/Image 3.png" alt="GitLab">
+          <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+            <img src="images/GitHub_Logo.png" alt="GitHub">
           </a>
         </div>
         <div class="col-xs-4 col-sm-6 col-md-3">
-          <a href="https://www.indeed.com" target="_blank">
-          <img src="images/Image 4.png" alt="Indeed">
+          <a href="https://about.gitlab.com/" target="_blank" rel="noopener noreferrer">
+            <img src="images/Image 3.png" alt="GitLab">
           </a>
         </div>
         <div class="col-xs-4 col-sm-6 col-md-3">
-          <a href="https://maintainer.io/" target="_blank">
-          <img src="images/maintainer-io-logo.png" alt="Maintainer Mountaineer">
+          <a href="https://www.indeed.com" target="_blank" rel="noopener noreferrer">
+            <img src="images/Image 4.png" alt="Indeed">
           </a>
         </div>
         <div class="col-xs-4 col-sm-6 col-md-3">
-        <a href="https://opencollective.com/" target="_blank">
-          <img src="images/Image 5.png" alt="Open Collective">
+          <a href="https://maintainer.io/" target="_blank" rel="noopener noreferrer">
+            <img src="images/maintainer-io-logo.png" alt="Maintainer Mountaineer">
           </a>
         </div>
         <div class="col-xs-4 col-sm-6 col-md-3">
-        <a href="https://www.oscollective.org/" target="_blank">
-          <img src="images/osc.png" alt="Open Source Collective">
+          <a href="https://opencollective.com/" target="_blank" rel="noopener noreferrer">
+            <img src="images/Image 5.png" alt="Open Collective">
           </a>
         </div>
         <div class="col-xs-4 col-sm-6 col-md-3">
-        <a href="https://redhat.com/" target="_blank">
-          <img src="images/Image 6.png" alt="Red Hat">
-         </a>
+          <a href="https://www.oscollective.org/" target="_blank" rel="noopener noreferrer">
+            <img src="images/osc.png" alt="Open Source Collective">
+          </a>
         </div>
         <div class="col-xs-4 col-sm-6 col-md-3">
-        <a href="https://storj.io/" target="_blank">
-          <img src="images/storj-hero-logo-1.svg" alt="Storj">
-         </a>
+          <a href="https://redhat.com/" target="_blank" rel="noopener noreferrer">
+            <img src="images/Image 6.png" alt="Red Hat">
+          </a>
+        </div>
+        <div class="col-xs-4 col-sm-6 col-md-3">
+          <a href="https://storj.io/" target="_blank" rel="noopener noreferrer">
+            <img src="images/storj-hero-logo-1.svg" alt="Storj">
+          </a>
         </div>
       </div>
     </div>
