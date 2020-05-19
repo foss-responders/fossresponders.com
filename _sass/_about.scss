@@ -1,3 +1,9 @@
+.about-page {
+  background-image: linear-gradient(to bottom, rgba(255,255,255,0), rgba(255,255,255,0.75) 70%),url(/images/about/aboutpage-top-bg.png);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position-y: -195px;
+}
 .about-header {
   .about-title {
     margin: 0 auto;
@@ -7,12 +13,21 @@
 }
 
 .about-wrapper {
-  a {
-    text-decoration: none;
-  }
   .member-description {
     text-align: left;
     max-width: 50%;
+
+    p.attribute {
+      font-size: 20px;
+      line-height: 24px;
+    }
+
+    .member-position {
+      a {
+        text-decoration: none;
+        font-weight: bold;
+      }
+    }
   }
 
   .member-container {
@@ -24,6 +39,19 @@
       img {
         max-width: 100%;
       }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .about-wrapper {
+    .member-container {
+      .member {
+        max-width: 100%;
+      }
+    }
+    .member-description {
+      max-width: 100%;
     }
   }
 }

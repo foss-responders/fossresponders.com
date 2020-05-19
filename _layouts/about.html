@@ -17,52 +17,57 @@ layout: default
     </div><!-- /.entry-content -->
   </header>
   <div class="about-wrapper container">
-    {% assign featured_members = page.members | where_exp: "member", "member.featured" %}
-    {% assign members = page.members | where_exp: "member", "member.featured != true" %}
+    {% assign featured_members = site.data.members | where_exp: "member", "member.featured" %}
+    {% assign members = site.data.members | where_exp: "member", "member.featured != true" %}
     {% for member in featured_members %}
-      <div class="featured-member d-md-flex justify-content-md-between">
+      <div class="featured-member d-md-flex flex-row-reverse justify-content-md-between">
+        <div class="member-avatar">
+          <img src="{{ site.url }}{{ member.avatar }}" alt="Avatar of {{ member.fullname }}" />
+        </div>
         <div class="member-description">
           <h1>{{ member.fullname }}</h1>
-          <p>
+          <p class="attribute member-position">
             {{ member.position }}
             at
             <a href="">{{ member.affiliation }}</a>
           </p>
-          <p><b>FOSS Responders committees:</b><br/>
-            {{ member.committees | join: ", " }}.</p>
-          <p>{{ member.excerpt }}</p>
+          <p class="attribute member-committees">
+            <b>FOSS Responders committees:</b><br/>
+            {{ member.committees | join: ", " }}.
+          </p>
           <p>
+            {{ member.excerpt }}
+          </p>
+          <p class="member-social">
             <a href="">{{ member.twitter }}</a><br/>
             <a href="">{{ member.github }}</a><br/>
             <a href="">{{ member.linkedin }}</a>
           </p>
-        </div>
-        <div class="member-avatar">
-          <img src="{{ site.url }}{{ member.avatar }}" alt="Avatar of {{ member.fullname }}" />
         </div>
       </div>
     {% endfor %}
-    <div class="member-container row mt-5 justify-content-md-between">
+    <div class="member-container row mt-4 justify-content-md-between">
     {% for member in members %}
-      <div class="col-md-6 member d-md-flex justify-content-md-between">
+      <div class="col-md-6 member mt-3 d-md-flex flex-row-reverse justify-content-md-between">
+        <div class="member-avatar">
+          <img src="{{ site.url }}{{ member.avatar }}" alt="Avatar of {{ member.fullname }}" />
+        </div>
         <div class="member-description">
           <h1>{{ member.fullname }}</h1>
-          <p>
+          <p class="attribute member-position">
             {{ member.position }}
-            at
+            <br/>
             <a href="">{{ member.affiliation }}</a>
           </p>
-          <p><b>FOSS Responders committees:</b><br/>
-            {{ member.committees | join: ", " }}.</p>
-          <p>{{ member.excerpt }}</p>
-          <p>
+          <p class="attribute member-committees">
+            <b>FOSS Responders committees:</b><br/>
+            {{ member.committees | join: ", " }}.
+          </p>
+          <p class="member-social">
             <a href="">{{ member.twitter }}</a><br/>
             <a href="">{{ member.github }}</a><br/>
             <a href="">{{ member.linkedin }}</a>
           </p>
-        </div>
-        <div class="member-avatar">
-          <img src="{{ site.url }}{{ member.avatar }}" alt="Avatar of {{ member.fullname }}" />
         </div>
       </div>
     {% endfor %}
