@@ -14,6 +14,7 @@ The website for FOSS Responders
 ## Develop
 
 - Clone this repo.
+- Clone all submodules: `git submodule update --init`
 - After running commands above, run `bundle exec jekyll serve` to preview locally.
 - All pages render on GitHub Pages once pushed.
 
