@@ -154,33 +154,28 @@ search_omit: true
     </div>
   </div>
   <hr style="border-color:#58B2E4;"/>
-  <div class="row text-left justify-content-md-center" id="who-we-are">
+  <div class="row text-left justify-content-md-center" id="our-mission">
     <div class="col-lg-10">
       <div class="row justify-content-md-center">
         <div class="col-md-6">
-          <h1>Who we are</h1>
-          <p>FOSS Responders is a working group of volunteers from various organizations. Our purpose is to provide a crowd-sourcing approach to help those in the open source community affected by COVID-19, especially in the face of event cancellations.</p>
-          <h2>Our mission</h2>
+          <h1>Our mission</h1>
+          <p>Our purpose is to provide a crowd-sourcing approach to help those in the open source community affected by corona virus, especially in the face of event cancellations.</p>
           <ul>
             <li class="one">Aggregate and amplify the financial and non-financial needs of FOSS communities affected by COVID-19 via our site and FOSS Funders Events, so it is easy to find who to help and how.</li>
             <li class="two">Provide emergency funds for those falling through the cracks of the traditional open source funding channels like foundation donations and membership, GitHub Sponsors, and Open Collective.</li>
             <li class="three">Create a Resource Center for projects to find tips and tricks on how to manage fully virtual community interactions, including events.</li>
           </ul>
-          <a href="https://fossresponders.discourse.group/" role="button" class="btn btn-primary join-us yellow-button">Join FOSS responders <span class="join"></span>  </a>
+          <a href="https://fossresponders.discourse.group/" role="button" class="btn btn-primary join-us yellow-button">Join the growing FOSS responders 
+            <span class="mission"></span>
+          </a>
         </div>
         <div class="col-md-6 section-photo d-none d-md-block">
-          <img src="images/undraw_connected_world_wuay.svg"/>
+          <img src="images/undraw_our_mission.svg" alt="Our mission"/>
         </div>
       </div>
     </div>
   </div>
-  <div class="row justify-content-md-center attributions">
-    <div class="col-lg-10">
-      <p class="center">This working group is made up of individuals and organizations including:</p>
-      <p class="center">Duane O’Brien, Megan Byrd-Sanicki, Richard Littauer, Nuritzi Sanchez, Tony Urso, Alyssa Wright, Rachel Lawson, Allen Gunn, Eriol Fox , Devon Zuegel, Jacob Redding, Ruth Suehle, Michael Cheng, Damon Gregory, Scott Moore, Shirley Bailes, Jocelyn Matthews, Saptak Sengupta…and more!</p>
-    </div>
-  </div>
-  <div class="row justify-content-md-center" id="logos">
+  <div class="row justify-content-md-center mt-5" id="logos">
     <div class="col-lg-10">
       <div class="row justify-content-md-center">
         <div class="col-xs-4 col-sm-6 col-md-2">

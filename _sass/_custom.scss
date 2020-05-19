@@ -246,6 +246,9 @@ span.page-title {
   padding: 13px 25px 13px 50px;
   font: 300 18px/22px Chivo;
   letter-spacing: 0.02px;
+  .mission {
+    @include mission-learn($fa-var-user-plus);
+  }
   .join{
     @include mission-learn($fa-var-users);
   }
