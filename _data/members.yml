@@ -84,7 +84,7 @@
   github: "awright"
   linkedin: "alyssapwright"
   excerpt: "Alyssa is Director of Community at Open Collective where she moves purposely and fixes things, not moves fast and breaks things. Previously, Alyssa worked on impact technologies at the World Bank, Bloomberg Philanthropies, and Samsung Next. For the past 5 years, Alyssa has served on the board of OpenStreetMap US."
-  # avatar: /images/about/alyssa.png
+  avatar: /images/about/alyssa.png
 
 - fullname: "Alison Yu"
   committees: ["Communications", "Events"]
