@@ -9,28 +9,6 @@
   excerpt: "Duane O’Brien is the Head of Open Source at Indeed.com. He is passionate about helping companies responsibly participate in the open source community. He is the creator of the FOSS Contributor Fund, which enables open source contributors to direct financial support to free and open source software."
   avatar: /images/about/duane.png
 
-- fullname: "Alison Yu"
-  committees: ["Communications", "Events"]
-  position: "Open Source Community Manager"
-  affiliation: "Indeed"
-  featured: true
-  twitter: "alisonjudy"
-  github: "alisonjudy"
-  linkedin: "alisonjudyyu"
-  excerpt: "Alison is the Open Source Community Manager at Indeed and co-founder of the Open Source Community Managers group. Prior to joining Indeed, Alison led global social media at Cloudera, Informatica, and SunPower. She also led Cloudera Cares, Cloudera's philanthropic arm. Alison holds a B.A. in Communication from the University of California, Davis."
-  avatar: /images/about/alison.png
-
-- fullname: "Dan Shaw"
-  committees: ["Fundraising"]
-  #position: ""
-  #affiliation: ""
-  featured: true
-  twitter: "dshaw"
-  github: "dshaw"
-  linkedin: "dshaw"
-  excerpt: "Dan Shaw, aka dshaw, is known as The Godfather of Node.js. Dan is former Global Head of Developer Relations of PayPal. Before that Dan spent the better part of the past decade commercializing Node.js, creating the first Node.js consulting company, then founding NodeSource. Always bet on Node.js ✨"
-  avatar: /images/about/dan.png
-
 - fullname: "Eriol Fox"
   committees: ["Website", "Content", "FAQs", "Community"]
   position: "Designer"
@@ -64,6 +42,28 @@
   excerpt: "Richard runs a small consultancy, Maintainer.io, to help open source projects thrive. He lives in Vermont. "
   avatar: /images/about/richard.png
 
+- fullname: "Scott Moore"
+  committees: ["Applications", "Outreach", "Fundraising"]
+  position: "Developer Relations"
+  affiliation: "Gitcoin (not a coin) / Codefund / Open Source Collective"
+  featured: true
+  twitter: "notscottmoore"
+  #github: ""
+  #linkedin: "linkedin.com"
+  excerpt: "Scott leads developer relations at Gitcoin (Codefund), a platform for building and sustaining open source communities. He also serves on the grants committee for the Ethereum Foundation, and, through Codefund, assists with Open Source Collective initiatives. When he's not working he spends time making pixel art and playing piano."
+  avatar: /images/about/scott.png
+
+- fullname: "Dan Shaw"
+  committees: ["Fundraising"]
+  #position: ""
+  #affiliation: ""
+  featured: true
+  twitter: "dshaw"
+  github: "dshaw"
+  linkedin: "dshaw"
+  excerpt: "Dan Shaw, aka dshaw, is known as The Godfather of Node.js. Dan is former Global Head of Developer Relations of PayPal. Before that Dan spent the better part of the past decade commercializing Node.js, creating the first Node.js consulting company, then founding NodeSource. Always bet on Node.js ✨"
+  avatar: /images/about/dan.png
+
 - fullname: "Josh Simmons"
   committees: ["Outreach"]
   position: "President / Foss Strategist"
@@ -74,6 +74,28 @@
   linkedin: "joshsimmons"
   # excerpt: ""
   avatar: /images/about/josh.png
+
+- fullname: "Alyssa Wright"
+  committees: ["Events", "Communications", "Fundraising", "Applications"]
+  position: "Director of Community"
+  affiliation: "Open Source Collective"
+  featured: true
+  twitter: "alyssapwright"
+  github: "awright"
+  linkedin: "alyssapwright"
+  excerpt: "Alyssa is Director of Community at Open Collective where she moves purposely and fixes things, not moves fast and breaks things. Previously, Alyssa worked on impact technologies at the World Bank, Bloomberg Philanthropies, and Samsung Next. For the past 5 years, Alyssa has served on the board of OpenStreetMap US."
+  # avatar: /images/about/alyssa.png
+
+- fullname: "Alison Yu"
+  committees: ["Communications", "Events"]
+  position: "Open Source Community Manager"
+  affiliation: "Indeed"
+  featured: true
+  twitter: "alisonjudy"
+  github: "alisonjudy"
+  linkedin: "alisonjudyyu"
+  excerpt: "Alison is the Open Source Community Manager at Indeed and co-founder of the Open Source Community Managers group. Prior to joining Indeed, Alison led global social media at Cloudera, Informatica, and SunPower. She also led Cloudera Cares, Cloudera's philanthropic arm. Alison holds a B.A. in Communication from the University of California, Davis."
+  avatar: /images/about/alison.png
 
 - fullname: "Ewa Jodlowska"
   committees: ["Applications"]
@@ -97,17 +119,6 @@
   #excerpt: ""
   avatar: /images/about/devon.png
 
-- fullname: "Scott Moore"
-  committees: ["Applications", "Outreach", "Fundraising"]
-  position: "Developer Relations"
-  affiliation: "Gitcoin (not a coin) / Codefund / Open Source Collective"
-  featured: true
-  twitter: "notscottmoore"
-  #github: ""
-  #linkedin: "linkedin.com"
-  excerpt: "Scott leads developer relations at Gitcoin (Codefund), a platform for building and sustaining open source communities. He also serves on the grants committee for the Ethereum Foundation, and, through Codefund, assists with Open Source Collective initiatives. When he's not working he spends time making pixel art and playing piano."
-  avatar: /images/about/scott.png
-
 - fullname: "Saptak"
   committees: ["Website"]
   # position: ""
@@ -129,14 +140,3 @@
   linkedin: "ruthsuehle"
   #excerpt: ""
   avatar: /images/about/ruth.png
-
-- fullname: "Alyssa Wright"
-  committees: ["Events", "Communications", "Fundraising", "Applications"]
-  position: "Director of Community"
-  affiliation: "Open Source Collective"
-  featured: true
-  twitter: "alyssapwright"
-  github: "awright"
-  linkedin: "alyssapwright"
-  excerpt: "Alyssa is Director of Community at Open Collective where she moves purposely and fixes things, not moves fast and breaks things. Previously, Alyssa worked on impact technologies at the World Bank, Bloomberg Philanthropies, and Samsung Next. For the past 5 years, Alyssa has served on the board of OpenStreetMap US."
-  # avatar: /images/about/alyssa.png
