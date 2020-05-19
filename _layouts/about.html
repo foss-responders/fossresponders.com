@@ -22,15 +22,21 @@ layout: default
     {% for member in featured_members %}
       <div class="featured-member d-md-flex flex-row-reverse justify-content-md-between">
         <div class="member-avatar">
+          {% if member.avatar %}
           <img src="{{ site.url }}{{ member.avatar }}" alt="Avatar of {{ member.fullname }}" />
+          {% endif %}
         </div>
         <div class="member-description">
           <h1>{{ member.fullname }}</h1>
+          {% if member.affiliation %}
           <p class="attribute member-position">
+            {% if member.position %}
             {{ member.position }}
             at
+            {% endif %}
             <a href="">{{ member.affiliation }}</a>
           </p>
+          {% endif %}
           <p class="attribute member-committees">
             <b>FOSS Responders committees:</b><br/>
             {{ member.committees | join: ", " }}.
@@ -39,9 +45,9 @@ layout: default
             {{ member.excerpt }}
           </p>
           <p class="member-social">
-            <a href="">{{ member.twitter }}</a><br/>
-            <a href="">{{ member.github }}</a><br/>
-            <a href="">{{ member.linkedin }}</a>
+            {% if member.twitter %}<a href="https://twitter.com/{{ member.twitter }}">@{{ member.twitter }}</a><br/>{% endif %}
+            {% if member.github %}<a href="https://github.com/{{ member.github }}">github.com/{{ member.github }}</a><br/>{% endif %}
+            {% if member.linkedin %}<a href="https://linkedin.com/in/{{ member.linkedin }}">linkedin.com/in/{{ member.linkedin }}</a>{% endif %}
           </p>
         </div>
       </div>
@@ -50,23 +56,29 @@ layout: default
     {% for member in members %}
       <div class="col-md-6 member mt-3 d-md-flex flex-row-reverse justify-content-md-between">
         <div class="member-avatar">
+          {% if member.avatar %}
           <img src="{{ site.url }}{{ member.avatar }}" alt="Avatar of {{ member.fullname }}" />
+          {% endif %}
         </div>
         <div class="member-description">
           <h1>{{ member.fullname }}</h1>
+          {% if member.affiliation %}
           <p class="attribute member-position">
             {{ member.position }}
             <br/>
             <a href="">{{ member.affiliation }}</a>
           </p>
+          {% endif %}
+          {% if member.committees %}
           <p class="attribute member-committees">
-            <b>FOSS Responders committees:</b><br/>
+            <b>Committees:</b><br/>
             {{ member.committees | join: ", " }}.
           </p>
+          {% endif %}
           <p class="member-social">
-            <a href="">{{ member.twitter }}</a><br/>
-            <a href="">{{ member.github }}</a><br/>
-            <a href="">{{ member.linkedin }}</a>
+            {% if member.twitter %}<a href="https://twitter.com/{{ member.twitter }}">@{{ member.twitter }}</a><br/>{% endif %}
+            {% if member.github %}<a href="https://github.com/{{ member.github }}">github.com/{{ member.github }}</a><br/>{% endif %}
+            {% if member.linkedin %}<a href="https://linkedin.com/in/{{ member.linkedin }}">linkedin.com/in/{{ member.linkedin }}</a>{% endif %}
           </p>
         </div>
       </div>
