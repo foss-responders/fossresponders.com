@@ -244,6 +244,11 @@ search_omit: true
           </a>
         </div>
         <div class="col-xs-4 col-sm-6 col-md-3">
+          <a href="https://sentry.io/" target="_blank" rel="noopener noreferrer">
+            <img src="images/Sentry_Purple.png" alt="Sentry">
+          </a>
+        </div>
+        <div class="col-xs-4 col-sm-6 col-md-3">
           <a href="https://storj.io/" target="_blank" rel="noopener noreferrer">
             <img src="images/storj-hero-logo-1.svg" alt="Storj">
           </a>
