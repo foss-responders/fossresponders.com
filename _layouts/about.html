@@ -1,0 +1,88 @@
+---
+layout: default
+---
+
+{% include navigation.html %}
+<div id="main" role="main" class="about-page">
+  <header class="about-header">
+    <h1 class="about-title">
+      {% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}
+    </h1>
+    <div class="about-subtext">
+      <div class="container">
+        <div class="text-left">
+          {{ content }}
+        </div>
+      </div>
+    </div><!-- /.entry-content -->
+  </header>
+  <div class="about-wrapper container">
+    {% assign featured_members = site.data.members | where_exp: "member", "member.featured" %}
+    {% assign members = site.data.members | where_exp: "member", "member.featured != true" %}
+    {% for member in featured_members %}
+      <div class="featured-member d-md-flex flex-row-reverse justify-content-md-between">
+        <div class="member-avatar">
+          {% if member.avatar %}
+          <img src="{{ site.url }}{{ member.avatar }}" alt="Avatar of {{ member.fullname }}" />
+          {% endif %}
+        </div>
+        <div class="member-description">
+          <h1>{{ member.fullname }}</h1>
+          {% if member.affiliation %}
+          <p class="attribute member-position">
+            {% if member.position %}
+            {{ member.position }}
+            at
+            {% endif %}
+            <a href="">{{ member.affiliation }}</a>
+          </p>
+          {% endif %}
+          <p class="attribute member-committees">
+            <b>FOSS Responders committees:</b><br/>
+            {{ member.committees | join: ", " }}.
+          </p>
+          <p>
+            {{ member.excerpt }}
+          </p>
+          <p class="member-social">
+            {% if member.twitter %}<a href="https://twitter.com/{{ member.twitter }}">@{{ member.twitter }}</a><br/>{% endif %}
+            {% if member.github %}<a href="https://github.com/{{ member.github }}">github.com/{{ member.github }}</a><br/>{% endif %}
+            {% if member.linkedin %}<a href="https://linkedin.com/in/{{ member.linkedin }}">linkedin.com/in/{{ member.linkedin }}</a>{% endif %}
+          </p>
+        </div>
+      </div>
+    {% endfor %}
+    <div class="member-container row mt-4 justify-content-md-between">
+    {% for member in members %}
+      <div class="col-md-6 member mt-3 d-md-flex flex-row-reverse justify-content-md-between">
+        <div class="member-avatar">
+          {% if member.avatar %}
+          <img src="{{ site.url }}{{ member.avatar }}" alt="Avatar of {{ member.fullname }}" />
+          {% endif %}
+        </div>
+        <div class="member-description">
+          <h1>{{ member.fullname }}</h1>
+          {% if member.affiliation %}
+          <p class="attribute member-position">
+            {{ member.position }}
+            <br/>
+            <a href="">{{ member.affiliation }}</a>
+          </p>
+          {% endif %}
+          {% if member.committees %}
+          <p class="attribute member-committees">
+            <b>Committees:</b><br/>
+            {{ member.committees | join: ", " }}.
+          </p>
+          {% endif %}
+          <p class="member-social">
+            {% if member.twitter %}<a href="https://twitter.com/{{ member.twitter }}">@{{ member.twitter }}</a><br/>{% endif %}
+            {% if member.github %}<a href="https://github.com/{{ member.github }}">github.com/{{ member.github }}</a><br/>{% endif %}
+            {% if member.linkedin %}<a href="https://linkedin.com/in/{{ member.linkedin }}">linkedin.com/in/{{ member.linkedin }}</a>{% endif %}
+          </p>
+        </div>
+      </div>
+    {% endfor %}
+    </div>
+  </div>
+</div>
