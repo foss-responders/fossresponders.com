@@ -245,7 +245,7 @@ search_omit: true
         </div>
         <div class="col-xs-4 col-sm-6 col-md-3">
           <a href="https://sentry.io/" target="_blank" rel="noopener noreferrer">
-            <img src="images/sentry.svg" alt="Sentry">
+            <img src="images/Sentry_Purple.png" alt="Sentry">
           </a>
         </div>
         <div class="col-xs-4 col-sm-6 col-md-3">
