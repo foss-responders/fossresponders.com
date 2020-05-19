@@ -7,4 +7,4 @@ excerpt: "Helping the Open Source ecosystem respond to Coronavirus"
 search_omit: true
 ---
 
-FOSS Responders is a working group of volunteers from various organizations. Our purpose is to provide a crowd-sourcing approach to help those in the open source community affected by COVID-19, especially in the face of event cancellations. i could pee on this if i had the energy, or pet me pet me pet me pet me, bite, scratch, why are you petting me so good now the other hand, too. Burrow under covers meow. 
+FOSS Responders is a working group of volunteers from various organizations. Our purpose is to provide a crowd-sourcing approach to help those in the open source community affected by COVID-19, especially in the face of event cancellations.
