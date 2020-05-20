@@ -247,6 +247,19 @@ search_omit: true
     </div>
   </div>
   <hr style="border-color:#FF62A0;"/>
+  <div class="row text-left justify-content-md-center mb-5" id="who-we-are">
+    <div class="col-lg-5 offset-lg-1">
+      <h1>Who we are</h1>
+      <p>FOSS Responders is a working group of volunteers from various organizations</p>
+      <a href="/about/" role="button" class="btn btn-primary join-us yellow-button">Find out more about us
+        <span class="join"></span>
+      </a>
+    </div>
+    <div class="col-lg-6 section-photo">
+      <img src="images/who-we-are.svg"/>
+    </div>
+  </div>
+  <hr style="border-color:#FF62A0;"/>
   <div class="row text-left justify-content-md-center" id="events">
     <div class="col-lg-5 offset-lg-1">
       <h1>Events</h1>
