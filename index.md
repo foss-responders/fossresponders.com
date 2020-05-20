@@ -165,12 +165,30 @@ search_omit: true
             <li class="two">Provide emergency funds for those falling through the cracks of the traditional open source funding channels like foundation donations and membership, GitHub Sponsors, and Open Collective.</li>
             <li class="three">Create a Resource Center for projects to find tips and tricks on how to manage fully virtual community interactions, including events.</li>
           </ul>
-          <a href="https://fossresponders.discourse.group/" role="button" class="btn btn-primary join-us yellow-button">Join the growing FOSS responders 
+          <a href="https://fossresponders.discourse.group/" role="button" class="btn btn-primary join-us yellow-button">Join FOSS responders 
             <span class="mission"></span>
           </a>
         </div>
-        <div class="col-md-6 section-photo d-none d-md-block">
+        <div class="col-md-5 offset-md-1 section-photo d-none d-md-block">
           <img src="images/undraw_our_mission.svg" alt="Our mission"/>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr class="border-pink"/>
+  <div class="row text-left justify-content-md-center mb-5" id="who-we-are">
+    <div class="col-lg-10">
+      <div class="row justify-content-md-center">
+        <div class="col-md-6">
+          <h1>Who we are</h1>
+          <p>FOSS Responders is a group of individuals who came together to support and celebrate our Free and Open Source Community affected by the COVID-19 economic fallout.</p>
+          <p>Some of the companies of the companies we work for, partner with, or who have donated to FOSS Responders funds are shown below.</p>
+          <a href="/about/" role="button" class="btn btn-primary join-us yellow-button">Find out more about us
+            <span class="join"></span>
+          </a>
+        </div>
+        <div class="col-md-5 offset-md-1 section-photo">
+          <img src="images/who-we-are.svg" alt="Who We Are"/>
         </div>
       </div>
     </div>
@@ -246,20 +264,7 @@ search_omit: true
       </div>
     </div>
   </div>
-  <hr style="border-color:#FF62A0;"/>
-  <div class="row text-left justify-content-md-center mb-5" id="who-we-are">
-    <div class="col-lg-5 offset-lg-1">
-      <h1>Who we are</h1>
-      <p>FOSS Responders is a working group of volunteers from various organizations</p>
-      <a href="/about/" role="button" class="btn btn-primary join-us yellow-button">Find out more about us
-        <span class="join"></span>
-      </a>
-    </div>
-    <div class="col-lg-6 section-photo">
-      <img src="images/who-we-are.svg"/>
-    </div>
-  </div>
-  <hr style="border-color:#FF62A0;"/>
+  <hr class="border-green"/>
   <div class="row text-left justify-content-md-center" id="events">
     <div class="col-lg-5 offset-lg-1">
       <h1>Events</h1>
