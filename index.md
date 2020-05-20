@@ -21,11 +21,11 @@ search_omit: true
       <p><strong>The need is real, and the time to act is now.</strong></p>
     </div>
   </div>
-  <hr style="border-color:#7BC9AC;"/>
+  <hr class="border-green"/>
   <div class="row justify-content-md-center" id="need-help">
     <div class="col-md">
       <h1>Need help?</h1>
-      <hr class="mini" style="border-color:#FF62A0;"/>
+      <hr class="mini border-pink"/>
     </div>
   </div>
   <div class="row">
@@ -84,11 +84,11 @@ search_omit: true
       </p>
     </div>
   </div>
-  <hr style="border-color:#FFDD57;"/>
+  <hr class="border-yellow"/>
   <div class="row justify-content-md-center" id="offer-help">
     <div class="col-md">
       <h1>Offer help!</h1>
-      <hr class="mini" style="border-color:#58B2E4;"/>
+      <hr class="mini border-blue"/>
     </div>
   </div>
   <div class="row justify-content-md-center">
@@ -153,7 +153,7 @@ search_omit: true
       <p>Is what you want to offer not here? Please email <a href="mailto:hello@fossresponders.com">hello@fossresponders.com</a>.</p>
     </div>
   </div>
-  <hr style="border-color:#58B2E4;"/>
+  <hr class="border-blue"/>
   <div class="row text-left justify-content-md-center" id="our-mission">
     <div class="col-lg-10">
       <div class="row justify-content-md-center">
@@ -280,7 +280,7 @@ search_omit: true
       <img src="images/events.svg"/>
     </div>
   </div>
-  <hr style="border-color:#7BC9AC;"/>
+  <hr class="border-yellow"/>
   <div class="row text-left justify-content-md-center" id="about">
     <div class="col-lg-10">
       <div class="row justify-content-md-center">
@@ -301,7 +301,7 @@ search_omit: true
       </div>
     </div>
   </div>
-  <hr style="border-color:#58B2E4;"/>
+  <hr class="border-blue"/>
   <div class="row justify-content-md-center text-left" id="contact">
     <div class="col-lg-10">
       <div class="row justify-content-md-center">
@@ -326,5 +326,5 @@ search_omit: true
       </div>
     </div>
   </div>
-  <hr style="border-color:#FF62A0;"/>
+  <hr class="border-pink"/>
 </div>

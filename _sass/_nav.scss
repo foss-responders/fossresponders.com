@@ -22,15 +22,10 @@
       font-size: 20px;
       @extend %fa-icon;
       @extend .fas;
-  
       &:before{
         content: fa-content($fa-var-chevron-right);
       }
     }
-    
-    
-
-
   }
 }
 

@@ -124,6 +124,18 @@ hr {
   &.mini {
     max-width: 40%;
   }
+  &.border-green {
+    border-color: #7BC9AC;
+  }
+  &.border-pink {
+    border-color: #FF62A0;
+  }
+  &.border-yellow {
+    border-color: #FFDD57;
+  }
+  &.border-blue {
+    border-color: #58B2E4;
+  }
 }
 
 h1 {
