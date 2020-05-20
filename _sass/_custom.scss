@@ -397,11 +397,11 @@ span.page-title {
 }
 
 .yellow-button:hover{
-  @include hover($yellow, $yellow, #FFFFFF);
+  @include hover($yellow, #000000, #FFFFFF);
 }
 
 .green-button:hover{
-  @include hover($green, $green, #FFFFFF);
+  @include hover($green, #000000, #FFFFFF);
 }
 
 #banner .banner-button:hover{
