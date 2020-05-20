@@ -124,6 +124,18 @@ hr {
   &.mini {
     max-width: 40%;
   }
+  &.border-green {
+    border-color: #7BC9AC;
+  }
+  &.border-pink {
+    border-color: #FF62A0;
+  }
+  &.border-yellow {
+    border-color: #FFDD57;
+  }
+  &.border-blue {
+    border-color: #58B2E4;
+  }
 }
 
 h1 {
@@ -246,6 +258,9 @@ span.page-title {
   padding: 13px 25px 13px 50px;
   font: 300 18px/22px Chivo;
   letter-spacing: 0.02px;
+  .mission {
+    @include mission-learn($fa-var-user-plus);
+  }
   .join{
     @include mission-learn($fa-var-users);
   }
@@ -292,7 +307,7 @@ span.page-title {
 #who-we-are {
   @extend .special-list;
   .section-photo img {
-    padding-top: 50px;
+    padding-top: 20px;
   }
 }
 .attributions {
@@ -307,7 +322,7 @@ span.page-title {
   margin-bottom: 5vh;
 }
 
-#events {
+#events, #our-mission, #who-we-are {
   padding-bottom: 5vh;
   .join-us {
     margin-top: 30px;

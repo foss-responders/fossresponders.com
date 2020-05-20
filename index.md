@@ -21,11 +21,11 @@ search_omit: true
       <p><strong>The need is real, and the time to act is now.</strong></p>
     </div>
   </div>
-  <hr style="border-color:#7BC9AC;"/>
+  <hr class="border-green"/>
   <div class="row justify-content-md-center" id="need-help">
     <div class="col-md">
       <h1>Need help?</h1>
-      <hr class="mini" style="border-color:#FF62A0;"/>
+      <hr class="mini border-pink"/>
     </div>
   </div>
   <div class="row">
@@ -84,11 +84,11 @@ search_omit: true
       </p>
     </div>
   </div>
-  <hr style="border-color:#FFDD57;"/>
+  <hr class="border-yellow"/>
   <div class="row justify-content-md-center" id="offer-help">
     <div class="col-md">
       <h1>Offer help!</h1>
-      <hr class="mini" style="border-color:#58B2E4;"/>
+      <hr class="mini border-blue"/>
     </div>
   </div>
   <div class="row justify-content-md-center">
@@ -153,34 +153,47 @@ search_omit: true
       <p>Is what you want to offer not here? Please email <a href="mailto:hello@fossresponders.com">hello@fossresponders.com</a>.</p>
     </div>
   </div>
-  <hr style="border-color:#58B2E4;"/>
-  <div class="row text-left justify-content-md-center" id="who-we-are">
+  <hr class="border-blue"/>
+  <div class="row text-left justify-content-md-center" id="our-mission">
     <div class="col-lg-10">
       <div class="row justify-content-md-center">
         <div class="col-md-6">
-          <h1>Who we are</h1>
-          <p>FOSS Responders is a working group of volunteers from various organizations. Our purpose is to provide a crowd-sourcing approach to help those in the open source community affected by COVID-19, especially in the face of event cancellations.</p>
-          <h2>Our mission</h2>
+          <h1>Our mission</h1>
+          <p>Our purpose is to provide a crowd-sourcing approach to help those in the open source community affected by corona virus, especially in the face of event cancellations.</p>
           <ul>
             <li class="one">Aggregate and amplify the financial and non-financial needs of FOSS communities affected by COVID-19 via our site and FOSS Funders Events, so it is easy to find who to help and how.</li>
             <li class="two">Provide emergency funds for those falling through the cracks of the traditional open source funding channels like foundation donations and membership, GitHub Sponsors, and Open Collective.</li>
             <li class="three">Create a Resource Center for projects to find tips and tricks on how to manage fully virtual community interactions, including events.</li>
           </ul>
-          <a href="https://fossresponders.discourse.group/" role="button" class="btn btn-primary join-us yellow-button">Join FOSS responders <span class="join"></span>  </a>
+          <a href="https://fossresponders.discourse.group/" role="button" class="btn btn-primary join-us yellow-button">Join FOSS responders 
+            <span class="mission"></span>
+          </a>
         </div>
-        <div class="col-md-6 section-photo d-none d-md-block">
-          <img src="images/undraw_connected_world_wuay.svg"/>
+        <div class="col-md-5 offset-md-1 section-photo d-none d-md-block">
+          <img src="images/undraw_our_mission.svg" alt="Our mission"/>
         </div>
       </div>
     </div>
   </div>
-  <div class="row justify-content-md-center attributions">
+  <hr class="border-pink"/>
+  <div class="row text-left justify-content-md-center mb-5" id="who-we-are">
     <div class="col-lg-10">
-      <p class="center">This working group is made up of individuals and organizations including:</p>
-      <p class="center">Duane O’Brien, Megan Byrd-Sanicki, Richard Littauer, Nuritzi Sanchez, Tony Urso, Alyssa Wright, Rachel Lawson, Allen Gunn, Eriol Fox , Devon Zuegel, Jacob Redding, Ruth Suehle, Michael Cheng, Damon Gregory, Scott Moore, Shirley Bailes, Jocelyn Matthews, Saptak Sengupta…and more!</p>
+      <div class="row justify-content-md-center">
+        <div class="col-md-6">
+          <h1>Who we are</h1>
+          <p>FOSS Responders is a group of individuals who came together to support and celebrate our Free and Open Source Community affected by the COVID-19 economic fallout.</p>
+          <p>Some of the companies of the companies we work for, partner with, or who have donated to FOSS Responders funds are shown below.</p>
+          <a href="/about/" role="button" class="btn btn-primary join-us yellow-button">Find out more about us
+            <span class="join"></span>
+          </a>
+        </div>
+        <div class="col-md-5 offset-md-1 section-photo">
+          <img src="images/who-we-are.svg" alt="Who We Are"/>
+        </div>
+      </div>
     </div>
   </div>
-  <div class="row justify-content-md-center" id="logos">
+  <div class="row justify-content-md-center mt-5" id="logos">
     <div class="col-lg-10">
       <div class="row justify-content-md-center">
         <div class="col-xs-4 col-sm-6 col-md-2">
@@ -256,7 +269,7 @@ search_omit: true
       </div>
     </div>
   </div>
-  <hr style="border-color:#FF62A0;"/>
+  <hr class="border-green"/>
   <div class="row text-left justify-content-md-center" id="events">
     <div class="col-lg-5 offset-lg-1">
       <h1>Events</h1>
@@ -277,7 +290,7 @@ search_omit: true
       <img src="images/events.svg"/>
     </div>
   </div>
-  <hr style="border-color:#7BC9AC;"/>
+  <hr class="border-yellow"/>
   <div class="row text-left justify-content-md-center" id="about">
     <div class="col-lg-10">
       <div class="row justify-content-md-center">
@@ -298,7 +311,7 @@ search_omit: true
       </div>
     </div>
   </div>
-  <hr style="border-color:#58B2E4;"/>
+  <hr class="border-blue"/>
   <div class="row justify-content-md-center text-left" id="contact">
     <div class="col-lg-10">
       <div class="row justify-content-md-center">
@@ -323,5 +336,5 @@ search_omit: true
       </div>
     </div>
   </div>
-  <hr style="border-color:#FF62A0;"/>
+  <hr class="border-pink"/>
 </div>
