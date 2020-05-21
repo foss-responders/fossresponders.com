@@ -252,6 +252,11 @@ search_omit: true
           </a>
         </div>
         <div class="col-xs-4 col-sm-6 col-md-3">
+          <a href="https://opensource.org/" target="_blank" rel="noopener noreferrer">
+            <img src="images/osi_logotype_0.png" alt="Open Source Initiative">
+          </a>
+        </div>
+        <div class="col-xs-4 col-sm-6 col-md-3">
           <a href="https://www.python.org/psf/" target="_blank" rel="noopener noreferrer">
             <img src="images/psf-logo.png" alt="Python Software Foundation">
           </a>
@@ -259,6 +264,11 @@ search_omit: true
         <div class="col-xs-4 col-sm-6 col-md-3">
           <a href="https://redhat.com/" target="_blank" rel="noopener noreferrer">
             <img src="images/Image 6.png" alt="Red Hat">
+          </a>
+        </div>
+        <div class="col-xs-4 col-sm-6 col-md-3">
+          <a href="https://opensource.salesforce.com/" target="_blank" rel="noopener noreferrer">
+            <img src="images/Salesforce_Corporate_Logo_RGB_400x400.png" alt="Salesforce">
           </a>
         </div>
         <div class="col-xs-4 col-sm-6 col-md-3">
