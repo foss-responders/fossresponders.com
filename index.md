@@ -252,6 +252,11 @@ search_omit: true
           </a>
         </div>
         <div class="col-xs-4 col-sm-6 col-md-3">
+          <a href="https://www.python.org/psf/" target="_blank" rel="noopener noreferrer">
+            <img src="images/psf-logo.png" alt="Python Software Foundation">
+          </a>
+        </div>
+        <div class="col-xs-4 col-sm-6 col-md-3">
           <a href="https://redhat.com/" target="_blank" rel="noopener noreferrer">
             <img src="images/Image 6.png" alt="Red Hat">
           </a>
