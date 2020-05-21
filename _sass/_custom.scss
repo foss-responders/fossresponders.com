@@ -15,6 +15,8 @@ $blue : #2292CE;
 $pink : #ED4789;
 $green : #7BC9AC;
 $yellow : #FFDD57;
+$black: #000;
+$white: #FFF;
 
 .center {
   text-align: center;
@@ -161,7 +163,7 @@ span.page-title {
     text-align: left;
     font: 300 18px/24px 'Chivo';
     letter-spacing: -0.43px;
-    color: #FFFFFF;
+    color: $white;
     opacity: 1;
   }
   img.avatar {
@@ -173,7 +175,7 @@ span.page-title {
     width: 90%;
     font: 300 18px/22px 'Chivo';
     letter-spacing: 0.02px;
-    color: #FFFFFF;
+    color: $white;
     padding: 20px 10px 10px 10px;
     border: 2px solid transparent;
     float: right;
@@ -389,19 +391,19 @@ span.page-title {
 
 
 .pink-button:hover{
-  @include hover($pink, $pink, #FFFFFF);
+  @include hover($pink, $pink, $white);
 }
 
 .blue-button:hover{
-  @include hover($blue, $blue, #FFFFFF);
+  @include hover($blue, $blue, $white);
 }
 
 .yellow-button:hover{
-  @include hover($yellow, #000000, #FFFFFF);
+  @include hover($yellow, $black, $white);
 }
 
 .green-button:hover{
-  @include hover($green, #000000, #FFFFFF);
+  @include hover($green, $black, $white);
 }
 
 #banner .banner-button:hover{
