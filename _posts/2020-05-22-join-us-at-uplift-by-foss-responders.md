@@ -10,7 +10,7 @@ image: /images/uplift-image.png
 date: 2020-05-22-12-11
 ---
 
-We are excited to announce that UPLIFT! by FOSS Responders is just around the corner! The whole team, all 90+ of us, were blown away by the community’s support. We had 17 organizations apply for COVID-19 related support and funding.
+We are excited to announce that [UPLIFT! by FOSS Responders](https://opencollective.com/foss-responders/events/virtual-funding-event-q2-2020-4edd1e3a#section-participants) is just around the corner! The whole team, all 90+ of us, were blown away by the community’s support. We had 17 organizations apply for COVID-19 related support and funding.
 
 For the event, we narrowed the organizations down to ten:
 
@@ -25,7 +25,7 @@ For the event, we narrowed the organizations down to ten:
 * [Python Software Foundation](https://staging.python.org/psf/donations/)
 * [Tor Project](https://donate.torproject.org/)
 
-The FOSS Responders team is ecstatic to announce that in partnership with [name all partner orgs], we’ll be distributing over $100,000 USD to the participating organizations!
+The FOSS Responders team is ecstatic to announce that in partnership with many organizations listed below, we’ll be distributing over $100,000 USD to the participating organizations!
 
 However, we’re not done yet! We’re also inviting event participants to donate. Indeed has committed to match participant donations up to $5,000 USD. Donations and matched funds will be distributed equally to the participating organizations.
 
