@@ -40,14 +40,14 @@ We had more applications than space, and we’d like to shine a light on those o
 
 This would not have been possible without the support of our partners. A HUGE thank you to:
 
-* Alfred P. Sloan Foundation
-* Indeed
-* Open Source Collective
-* Digital Ocean
-* Ethereum Foundation
-* GitHub
-* LinuxFund
-* Open Collective
-* Sentry
+* [Alfred P. Sloan Foundation](https://sloan.org/)
+* [Digital Ocean](https://www.digitalocean.com/)
+* [Ethereum Foundation](https://ethereum.foundation/)
+* [GitHub](https://github.com/)
+* [Indeed](https://opensource.indeedeng.io/)
+* [LinuxFund](http://www.linuxfund.org/)
+* [Open Collective](https://opencollective.com/)
+* [Open Source Collective](https://www.oscollective.org/)
+* [Sentry](https://sentry.io/welcome/)
 
 **Note: Logos and links are coming.**
