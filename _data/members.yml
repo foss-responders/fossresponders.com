@@ -9,6 +9,17 @@
   excerpt: "Duane O’Brien is the Head of Open Source at Indeed.com. He is passionate about helping companies responsibly participate in the open source community. He is the creator of the FOSS Contributor Fund, which enables open source contributors to direct financial support to free and open source software."
   avatar: /images/about/duane.png
 
+- fullname: "Georgia Bullen"
+  committees: ["Design", "Events"]
+  position: "Executive Director"
+  affiliation: "Simply Secure"
+  featured: false
+  twitter: "georgiamoon"
+  github: "georgiamoon"
+  linkedin: "georgiabullen"
+  # excerpt: "Richard runs a small consultancy, Maintainer.io, to help open source projects thrive. He lives in Vermont. "
+  avatar: /images/about/georgia.png
+
 - fullname: "Eriol Fox"
   committees: ["Website", "Content", "FAQs", "Community"]
   position: "Designer"
@@ -19,6 +30,17 @@
   linkedin: "eriol-fox"
   excerpt: "Eriol is a designer with 10+ years experience in companies and NGO's and has worked internationally on some of the toughest humanitarian problems including Crisis Response, Peace-building, Democracy and Human Rights. Dedicated to Open Source and Free software they are pushing for better design representation and involvement in OSS."
   avatar: /images/about/eriol.png
+
+- fullname: "Allen Gunn"
+  committees: ["Facilitation", "Events"]
+  position: "Exective Director"
+  affiliation: "Aspiration Tech"
+  excerpt: "Allen Gunn is Executive Director of Aspiration (www.aspirationtech.org) in San Francisco, USA, and works to help NGOs, activists, foundations and open source projects make more effective use of technology in social justice efforts."
+  featured: true
+  twitter: "allengunn"
+  github: "alnermcgunn"
+  linkedin: "allen-gunn-4a9a"
+  avatar: /images/about/gunner.png
 
 - fullname: "Rachel Lawson"
   committees: ["Applications"]
