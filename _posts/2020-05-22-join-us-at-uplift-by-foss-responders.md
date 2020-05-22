@@ -34,7 +34,7 @@ However, we’re not done yet! We’re also inviting event participants to donat
 We had more applications than space, and we’d like to shine a light on those organizations that were not selected to participate in the UPLIFT! event. Their applications will be reviewed in a second round by the FOSS Responders’ general organization committee for future support opportunities. We encourage you to support these great organizations.
 
 * [DemocracyLab](https://democracylab.org/index/?section=Donate)
-* [Open Labs Albania](https://twitter.com/OpenLabsAlbania)
+* [Open Labs Albania](https://www.patreon.com/OpenLabsAlbania)
 * [Whonix](https://www.whonix.org/wiki/Contribute)
 
 ### Thank You Partners!
