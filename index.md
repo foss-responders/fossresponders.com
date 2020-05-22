@@ -212,6 +212,11 @@ search_omit: true
           </a>
         </div>
         <div class="col-xs-4 col-sm-6 col-md-3">
+          <a href="https://ethereum.foundation/" target="_blank" rel="noopener noreferrer">
+            <img src="images/Ethereum-Foundation-logo-2000ox.png" alt="Ethereum Foundation">
+          </a>
+        </div>
+        <div class="col-xs-4 col-sm-6 col-md-3">
           <a href="https://www.facebook.com/covidsupport" target="_blank" rel="noopener noreferrer">
             <img src="images/Image 7.png" alt="Facebook">
           </a>
