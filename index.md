@@ -207,6 +207,11 @@ search_omit: true
           </a>
         </div>
         <div class="col-xs-4 col-sm-6 col-md-3">
+          <a href="https://www.digitalocean.com/" target="_blank" rel="noopener noreferrer">
+            <img src="images/DigitalOcean-Logo.png" alt="DigitalOcean">
+          </a>
+        </div>
+        <div class="col-xs-4 col-sm-6 col-md-3">
           <a href="https://www.drupal.org/association" target="_blank" rel="noopener noreferrer">
             <img src="images/drupal-association-logo-rgb.png" alt="Drupal Association">
           </a>
