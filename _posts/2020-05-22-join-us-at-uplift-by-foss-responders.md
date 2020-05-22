@@ -49,5 +49,3 @@ This would not have been possible without the support of our partners. A HUGE th
 * [Open Collective](https://opencollective.com/)
 * [Open Source Collective](https://www.oscollective.org/)
 * [Sentry](https://sentry.io/welcome/)
-
-**Note: Logos and links are coming.**
