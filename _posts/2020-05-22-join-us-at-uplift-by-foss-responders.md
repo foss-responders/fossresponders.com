@@ -35,6 +35,7 @@ We had more applications than space, and we’d like to shine a light on those o
 
 * [DemocracyLab](https://democracylab.org/index/?section=Home)
 * [Open Labs Albania](https://twitter.com/OpenLabsAlbania)
+* [Whonix](https://www.whonix.org/wiki/Contribute)
 
 ### Thank You Partners!
 
