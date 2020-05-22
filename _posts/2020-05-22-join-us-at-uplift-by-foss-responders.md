@@ -14,17 +14,16 @@ We are excited to announce that UPLIFT! by FOSS Responders is just around the co
 
 For the event, we narrowed the organizations down to ten:
 
-* Apache Software Foundation
-* Drupal Association
-* Electronic Frontier Foundation (EFF)
-* FOSSASIA
-* Free Software Foundation
-* GNOME Foundation
-* Open Source Matters, Inc.
-* Participating Organizations
-* Plain Schwarz/Berlin Buzzwords
-* Python Software Foundation
-* Tor Project
+* [Apache Software Foundation](https://www.apache.org/foundation/contributing.html)
+* [Drupal Association](https://www.drupal.org/association/donate)
+* [Electronic Frontier Foundation (EFF)](https://supporters.eff.org/donate/join-4)
+* [FOSSASIA](https://community.fossasia.org/donation/)
+* [Free Software Foundation](https://my.fsf.org/donate/)
+* [GNOME Foundation](https://www.gnome.org/support-gnome/donate/)
+* [Open Source Matters, Inc.](https://www.joomla.org/sponsor.html)
+* [Plain Schwarz/Berlin Buzzwords](https://berlinbuzzwords.de/tickets)
+* [Python Software Foundation](https://staging.python.org/psf/donations/)
+* [Tor Project](https://donate.torproject.org/)
 
 The FOSS Responders team is ecstatic to announce that in partnership with [name all partner orgs], we’ll be distributing over $100,000 USD to the participating organizations!
 
