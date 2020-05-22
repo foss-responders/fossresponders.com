@@ -197,7 +197,7 @@ search_omit: true
     <div class="col-lg-10">
       <div class="row justify-content-md-center">
         <div class="col-xs-4 col-sm-6 col-md-2">
-          <a href="https://aspiration.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://aspirationtech.org/" target="_blank" rel="noopener noreferrer">
             <img src="images/Layer 2.svg" alt="Aspiration">
           </a>
         </div>
