@@ -162,3 +162,15 @@
   linkedin: "ruthsuehle"
   #excerpt: ""
   avatar: /images/about/ruth.png
+
+- fullname: "Megan Byrd-Sanicki"
+  # committees: [""]
+  position: "Open Source Strategist"
+  affiliation: "Google"
+  featured: false
+  twitter: "megansanicki"
+  # github: "saptaks"
+  linkedin: "megansanicki"
+  #excerpt: ""
+  avatar: /images/about/megan.png
+
