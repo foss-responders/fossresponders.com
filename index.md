@@ -303,13 +303,13 @@ search_omit: true
   <div class="row text-left justify-content-md-center" id="events">
     <div class="col-lg-5 offset-lg-1">
       <h1>Events</h1>
-      <p>On May 22nd, join <a href="http://opensource.indeed.com/" target="_blank" rel="noopener noreferrer">Indeed</a>, the <a href="https://www.oscollective.org/" target="_blank" rel="noopener noreferrer">Open Source Collective</a>, and others as we come together at the first Virtual FOSS Responders Funding Event.</p>
+      <p>On May 22nd, <a href="http://opensource.indeed.com/" target="_blank" rel="noopener noreferrer">Indeed</a>, the <a href="https://www.oscollective.org/" target="_blank" rel="noopener noreferrer">Open Source Collective</a>, and others came together at the first Virtual FOSS Responders Funding Event.</p>
 
-      <p>The Virtual FOSS Responders Funding Event is designed to help support the open source community through this critical time. Conference cancellations have caused financial loss, unmet fundraising trajectories, and missed business opportunities. Now is the time to participate in the sustainability of open software organizations. Now is the time to be a part of its survival.</p>
+      <p>The Virtual FOSS Responders Funding Event was designed to help support the open source community through this critical time. Conference cancellations have caused financial loss, unmet fundraising trajectories, and missed business opportunities. Together, we raised and allocated over $100,000 dollars to help out open source organizations.</p>
 
-      <p>If you want to participate as a FOSS Funder organization, please email <a href="mailto:hello@fossresponders.com">hello@fossresponders.com</a>.</p>
+      <p>If you want to participate as a FOSS Funder organization for future events, please email <a href="mailto:hello@fossresponders.com">hello@fossresponders.com</a>.</p>
 
-      <p>If you are an organization who serves the free and open source software community and you have experienced financial losses due to COVID-19 please <a href="https://docs.google.com/forms/d/e/1FAIpQLSeo7NwDVs9O1JJ9cVZmypEiw50lEuot7gu3-dqOswr2dazUzg/viewform" target="_blank" rel="noopener noreferrer">apply for support</a>.</p>
+      <!-- <p>If you are an organization who serves the free and open source software community and you have experienced financial losses due to COVID-19 please <a href="https://docs.google.com/forms/d/e/1FAIpQLSeo7NwDVs9O1JJ9cVZmypEiw50lEuot7gu3-dqOswr2dazUzg/viewform" target="_blank" rel="noopener noreferrer">apply for support</a>.</p> -->
 
       <a href="https://opencollective.com/foss-responders/events/virtual-funding-event-q2-2020-4edd1e3a" role="button" class="btn btn-primary join-us yellow-button">Learn More
      <span class="learn-more"></span>
