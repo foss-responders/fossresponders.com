@@ -84,7 +84,9 @@ pagination:
               <img class="post-thumbnail-img" src="{{ post.image }}" />
             {% endif %}
             <div class="post-thumbnail-info">
-              <h3>{{ post.title }}</h3>
+              <a href="{{ post.url | relative_url }}">
+                <h3>{{ post.title }}</h3>
+              </a>
               <small>
                 Posted on <time datetime="{{ post.date | date_to_xmlschema }}">
                 {{ post.date | date: '%B %d, %Y' }}</time> by {{ author.name }}
