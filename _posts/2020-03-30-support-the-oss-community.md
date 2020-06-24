@@ -53,7 +53,7 @@ Now is the time to give back to the projects we depend on. This is how we future
 
 ## How to get help
 
-FOSS Responders will amplify your need so others can easily see who and how tduuuunoooo... o help. By sharing your need, we can connect you with helpers.
+FOSS Responders will amplify your need so others can easily see who and how to help. By sharing your need, we can connect you with helpers.
 
 - If you are an individual who needs help paying for conference-related cancellation fees, fill out the [FOSS Responders Individual Request](https://go.indeed.com/FOSSResponders-IndividualSupport)
 - If you had to cancel an event and your organization needs financial assistance as a result, open an [EVENT issue](https://go.indeed.com/FOSSResponders-OrganizationSupport)
