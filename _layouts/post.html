@@ -60,7 +60,9 @@ layout: default
       </div>
       <div class="entry-content my-5">
         {% if page.image %}
-          <img class="entry-img mb-5" src="{{ page.image }}" />
+          {% unless page.hideImage %}
+            <img class="entry-img mb-5" src="{{ page.image }}" />
+          {% endunless %}
         {% endif %}
         {{ content }}
       </div><!-- /.entry-content -->
