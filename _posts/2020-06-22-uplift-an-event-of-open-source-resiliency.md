@@ -51,4 +51,4 @@ It will take courage and commitment to continue to build a resilient open source
 
 **If you would like to help email us at  [hello@fossresponders.com](mailto:hello@fossresponders.com).**
 
-_This blog was crossposted on the [Open Source Collective blog](https://blog.opencollective.com/foss-responders-uplift/).  All illustrations penned by the amazing [Eriol Fox](http://erioldoesdesign.com/)._
+_This blog was crossposted on the [Open Source Collective blog](https://blog.opencollective.com/foss-responders-uplift/). All illustrations penned by the amazing [Eriol Fox](http://erioldoesdesign.com/). You can find the entire UPLIFT infographic [HERE](https://fossresponders.com/assets/files/fossresponders-uplift-Infographic-update-1.pdf). There's 1 unicorn hat 🦄🦄🦄🦄🦄🦄 you don't want to miss. #promise!_
