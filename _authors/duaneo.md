@@ -1,7 +1,7 @@
 ---
 name: Duane O'Brien
 web: https://indeed.com
-email: duaneo@indeed.com(opens in new tab)
+email: duaneo@indeed.com
 bio: "Open Source at Indeed"
 twitter:
 facebook:

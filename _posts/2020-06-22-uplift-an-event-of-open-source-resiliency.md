@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building an Open Source Care Plane, aka FOSS Responders"
-author: "alyssa"
+author: "eriol"
 category: post
 thumb: /images/uplift-1.png
 image: /images/uplift-1.png
