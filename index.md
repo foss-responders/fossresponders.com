@@ -347,8 +347,7 @@ search_omit: true
       <div class="row justify-content-md-center">
         <div class="col-md-6">
           <h1>Contact</h1>
-          <p>We're working on an FAQ page. Watch this space!</p>
-          <p>For now, you can always
+          <p>You can always
           <!-- <p>If you have questions, take a look at our FAQ.</p> -->
           <!--
           TODO Design the FAQ page
