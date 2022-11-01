@@ -5,7 +5,7 @@
   "version": "0.0.0",
   "main": "gulpfile.js",
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-changed": "^3.2.0",
     "gulp-image-resize": "^0.13.0",
     "gulp-imagemin": "^4.1.0",
